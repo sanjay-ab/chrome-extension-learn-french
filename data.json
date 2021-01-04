@@ -1,0 +1,4550 @@
+{
+    "Rank": {
+        "rank": "Rank",
+        "french": "French\u00a0word",
+        "english": "English\u00a0translation",
+        "type": "Part of speech"
+    },
+    "1.": {
+        "rank": "1.",
+        "french": "\u00eatre",
+        "english": "to be; being",
+        "type": "verb, auxiliary verb, noun"
+    },
+    "2.": {
+        "rank": "2.",
+        "french": "avoir",
+        "english": "to have",
+        "type": "verb, auxiliary verb"
+    },
+    "3.": {
+        "rank": "3.",
+        "french": "je",
+        "english": "I",
+        "type": "personal pronoun"
+    },
+    "4.": {
+        "rank": "4.",
+        "french": "de",
+        "english": "of, from, by, than, in, with",
+        "type": "preposition"
+    },
+    "5.": {
+        "rank": "5.",
+        "french": "ne",
+        "english": "not",
+        "type": "adverb"
+    },
+    "6.": {
+        "rank": "6.",
+        "french": "pas",
+        "english": "not; step, pace",
+        "type": "adverb, noun"
+    },
+    "7.": {
+        "rank": "7.",
+        "french": "le",
+        "english": "the; him, it (refering to a masculine singular noun)",
+        "type": "definite article, personal pronoun"
+    },
+    "8.": {
+        "rank": "8.",
+        "french": "la",
+        "english": "the; her, it  (refering to a feminine singular noun)",
+        "type": "definite article, personal pronoun"
+    },
+    "9.": {
+        "rank": "9.",
+        "french": "tu",
+        "english": "you",
+        "type": "personal pronoun"
+    },
+    "10.": {
+        "rank": "10.",
+        "french": "vous",
+        "english": "you, yourself",
+        "type": "personal pronoun"
+    },
+    "11.": {
+        "rank": "11.",
+        "french": "il",
+        "english": "he, it",
+        "type": "personal pronoun"
+    },
+    "12.": {
+        "rank": "12.",
+        "french": "et",
+        "english": "and",
+        "type": "conjunction"
+    },
+    "13.": {
+        "rank": "13.",
+        "french": "\u00e0",
+        "english": "in, to, with",
+        "type": "preposition"
+    },
+    "14.": {
+        "rank": "14.",
+        "french": "un",
+        "english": "a, an; one (used before a masculine singular noun)",
+        "type": "indefinite article"
+    },
+    "15.": {
+        "rank": "15.",
+        "french": "l'",
+        "english": "the (used instead of ''le'' or ''la'' before nouns that begin with a vowel)",
+        "type": "definite article, personal pronoun"
+    },
+    "16.": {
+        "rank": "16.",
+        "french": "qui",
+        "english": "who, whom; that, which",
+        "type": "relative pronoun, interrogative pronoun"
+    },
+    "17.": {
+        "rank": "17.",
+        "french": "aller",
+        "english": "to go",
+        "type": "verb"
+    },
+    "18.": {
+        "rank": "18.",
+        "french": "les",
+        "english": "the; them (referring to a plural noun)",
+        "type": "definite article, personal pronoun"
+    },
+    "19.": {
+        "rank": "19.",
+        "french": "en",
+        "english": "in, into, to, as",
+        "type": "preposition, personal pronoun, adverb"
+    },
+    "20.": {
+        "rank": "20.",
+        "french": "\u00e7a",
+        "english": "this, that",
+        "type": "demonstrative pronoun"
+    },
+    "21.": {
+        "rank": "21.",
+        "french": "faire",
+        "english": "to do, make",
+        "type": "verb"
+    },
+    "22.": {
+        "rank": "22.",
+        "french": "tout",
+        "english": "all, everything, any; very, quite",
+        "type": "adjective, indefinite adjective, indefinite pronoun, adverb, noun"
+    },
+    "23.": {
+        "rank": "23.",
+        "french": "on",
+        "english": "we, you",
+        "type": "personal pronoun"
+    },
+    "24.": {
+        "rank": "24.",
+        "french": "que",
+        "english": "that; what; which",
+        "type": "relative pronoun, interrogative pronoun"
+    },
+    "25.": {
+        "rank": "25.",
+        "french": "ce",
+        "english": "this, that",
+        "type": "demonstrative pronoun, demonstrative adjective"
+    },
+    "26.": {
+        "rank": "26.",
+        "french": "une",
+        "english": "a, an; one (used before a feminine singular noun)",
+        "type": "indefinite article"
+    },
+    "27.": {
+        "rank": "27.",
+        "french": "mes",
+        "english": "my (used before plural nouns)",
+        "type": "possessive adjective"
+    },
+    "28.": {
+        "rank": "28.",
+        "french": "d'",
+        "english": "of, from, by, than, in, with (used before a vowel or mute h)",
+        "type": "preposition"
+    },
+    "29.": {
+        "rank": "29.",
+        "french": "pour",
+        "english": "for",
+        "type": "preposition"
+    },
+    "30.": {
+        "rank": "30.",
+        "french": "se",
+        "english": "himself, herself, themselves",
+        "type": "personal pronoun"
+    },
+    "31.": {
+        "rank": "31.",
+        "french": "des",
+        "english": "some (used before a plural noun)",
+        "type": "indefinite article"
+    },
+    "32.": {
+        "rank": "32.",
+        "french": "dire",
+        "english": "to say, tell",
+        "type": "verb, noun"
+    },
+    "33.": {
+        "rank": "33.",
+        "french": "pouvoir",
+        "english": "can, to be able to",
+        "type": "verb, noun"
+    },
+    "34.": {
+        "rank": "34.",
+        "french": "vouloir",
+        "english": "to want",
+        "type": "verb"
+    },
+    "35.": {
+        "rank": "35.",
+        "french": "mais",
+        "english": "but",
+        "type": "conjunction"
+    },
+    "36.": {
+        "rank": "36.",
+        "french": "me",
+        "english": "me, myself",
+        "type": "personal pronoun"
+    },
+    "37.": {
+        "rank": "37.",
+        "french": "nous",
+        "english": "we, us",
+        "type": "personal pronoun"
+    },
+    "38.": {
+        "rank": "38.",
+        "french": "dans",
+        "english": "in, into",
+        "type": "preposition"
+    },
+    "39.": {
+        "rank": "39.",
+        "french": "elle",
+        "english": "she, it (refers to a feminine singular noun)",
+        "type": "personal pronoun"
+    },
+    "40.": {
+        "rank": "40.",
+        "french": "savoir",
+        "english": "to know;",
+        "type": "verb"
+    },
+    "41.": {
+        "rank": "41.",
+        "french": "du",
+        "english": "(de + le/les) = of the, from the",
+        "type": "definite article"
+    },
+    "42.": {
+        "rank": "42.",
+        "french": "o\u00f9",
+        "english": "where, that",
+        "type": "relative pronoun, interrogative pronoun"
+    },
+    "43.": {
+        "rank": "43.",
+        "french": "y",
+        "english": "it, there",
+        "type": "personal pronoun"
+    },
+    "44.": {
+        "rank": "44.",
+        "french": "t'",
+        "english": "you, yourself (shortened form used before a vowel)",
+        "type": "personal pronoun"
+    },
+    "45.": {
+        "rank": "45.",
+        "french": "bien",
+        "english": "well, very; good",
+        "type": "adverb, noun"
+    },
+    "46.": {
+        "rank": "46.",
+        "french": "voir",
+        "english": "to see",
+        "type": "verb"
+    },
+    "47.": {
+        "rank": "47.",
+        "french": "plus",
+        "english": "more",
+        "type": "adverb"
+    },
+    "48.": {
+        "rank": "48.",
+        "french": "non",
+        "english": "no",
+        "type": "adverb"
+    },
+    "49.": {
+        "rank": "49.",
+        "french": "te",
+        "english": "you, yourself",
+        "type": "personal pronoun"
+    },
+    "50.": {
+        "rank": "50.",
+        "french": "mon",
+        "english": "my (used before a masculine singular noun)",
+        "type": "possessive adjective"
+    },
+    "51.": {
+        "rank": "51.",
+        "french": "au",
+        "english": "at the, to the, in the (contraction of \u00e0 + le; used with a singular masculine noun)",
+        "type": "definite article"
+    },
+    "52.": {
+        "rank": "52.",
+        "french": "avec",
+        "english": "with",
+        "type": "preposition"
+    },
+    "53.": {
+        "rank": "53.",
+        "french": "moi",
+        "english": "I, me",
+        "type": "personal pronoun"
+    },
+    "54.": {
+        "rank": "54.",
+        "french": "si",
+        "english": "yes; if; so, such",
+        "type": "adverb, conjunction"
+    },
+    "55.": {
+        "rank": "55.",
+        "french": "quoi",
+        "english": "what (exclamatory, interrogative, after preposition)",
+        "type": "adjective, relative pronoun, interrogative pronoun"
+    },
+    "56.": {
+        "rank": "56.",
+        "french": "devoir",
+        "english": "to have to, must; duty, test",
+        "type": "verb, noun"
+    },
+    "57.": {
+        "rank": "57.",
+        "french": "oui",
+        "english": "yes",
+        "type": "adverb"
+    },
+    "58.": {
+        "rank": "58.",
+        "french": "ils",
+        "english": "they (refers to a group of masculine or mixed masculine/feminine nouns)",
+        "type": "personal pronoun"
+    },
+    "59.": {
+        "rank": "59.",
+        "french": "comme",
+        "english": "as, like; how, same",
+        "type": "conjunction, adverb"
+    },
+    "60.": {
+        "rank": "60.",
+        "french": "s'",
+        "english": "himself, herself, themselves (variation of \"se\" used before a word starting with a vowel or mute h)",
+        "type": "personal pronoun, conjunction"
+    },
+    "61.": {
+        "rank": "61.",
+        "french": "venir",
+        "english": "to come, occur",
+        "type": "verb"
+    },
+    "62.": {
+        "rank": "62.",
+        "french": "sur",
+        "english": "on, upon; over (preposition); sour (adjective)",
+        "type": "preposition, adjective"
+    },
+    "63.": {
+        "rank": "63.",
+        "french": "toi",
+        "english": "you",
+        "type": "personal pronoun"
+    },
+    "64.": {
+        "rank": "64.",
+        "french": "ici",
+        "english": "here",
+        "type": "adverb"
+    },
+    "65.": {
+        "rank": "65.",
+        "french": "rien",
+        "english": "nothing",
+        "type": "indefinite pronoun"
+    },
+    "66.": {
+        "rank": "66.",
+        "french": "lui",
+        "english": "he, him, it, her",
+        "type": "personal pronoun"
+    },
+    "67.": {
+        "rank": "67.",
+        "french": "bon",
+        "english": "good, right, kind; good!;",
+        "type": "adjective, onomatopoeia, noun, adverb"
+    },
+    "68.": {
+        "rank": "68.",
+        "french": "l\u00e0",
+        "english": "there, here, then",
+        "type": "adverb"
+    },
+    "69.": {
+        "rank": "69.",
+        "french": "suivre",
+        "english": "to follow",
+        "type": "verb"
+    },
+    "70.": {
+        "rank": "70.",
+        "french": "pourquoi",
+        "english": "why",
+        "type": "adverb, conjunction"
+    },
+    "71.": {
+        "rank": "71.",
+        "french": "parler",
+        "english": "to speak, talk",
+        "type": "verb"
+    },
+    "72.": {
+        "rank": "72.",
+        "french": "prendre",
+        "english": "to take, get",
+        "type": "verb"
+    },
+    "73.": {
+        "rank": "73.",
+        "french": "cette",
+        "english": "this, that (feminine singular)",
+        "type": "demonstrative adjective"
+    },
+    "74.": {
+        "rank": "74.",
+        "french": "quand",
+        "english": "when, whenever",
+        "type": "conjunction"
+    },
+    "75.": {
+        "rank": "75.",
+        "french": "alors",
+        "english": "then; so; hence",
+        "type": "adverb"
+    },
+    "76.": {
+        "rank": "76.",
+        "french": "une chose",
+        "english": "thing, matter",
+        "type": "noun"
+    },
+    "77.": {
+        "rank": "77.",
+        "french": "par",
+        "english": "per, by, through, out of",
+        "type": "preposition"
+    },
+    "78.": {
+        "rank": "78.",
+        "french": "son",
+        "english": "his, her, its (possessive adjective); sound (noun - le son)",
+        "type": "possessive adjective"
+    },
+    "79.": {
+        "rank": "79.",
+        "french": "croire",
+        "english": "to believe, think",
+        "type": "verb"
+    },
+    "80.": {
+        "rank": "80.",
+        "french": "aimer",
+        "english": "to love, like, be fond of",
+        "type": "verb"
+    },
+    "81.": {
+        "rank": "81.",
+        "french": "falloir",
+        "english": "it is necessary, must, have to",
+        "type": "verb"
+    },
+    "82.": {
+        "rank": "82.",
+        "french": "comment",
+        "english": "how; what",
+        "type": "adverb, conjunction, onomatopoeia"
+    },
+    "83.": {
+        "rank": "83.",
+        "french": "tr\u00e8s",
+        "english": "very",
+        "type": "adverb"
+    },
+    "84.": {
+        "rank": "84.",
+        "french": "ou",
+        "english": "or; either\u2026 or",
+        "type": "conjunction"
+    },
+    "85.": {
+        "rank": "85.",
+        "french": "passer",
+        "english": "to pass, go by, cross",
+        "type": "verb"
+    },
+    "86.": {
+        "rank": "86.",
+        "french": "penser",
+        "english": "to think",
+        "type": "verb"
+    },
+    "87.": {
+        "rank": "87.",
+        "french": "aussi",
+        "english": "also, too",
+        "type": "adverb"
+    },
+    "88.": {
+        "rank": "88.",
+        "french": "jamais",
+        "english": "never",
+        "type": "adverb"
+    },
+    "89.": {
+        "rank": "89.",
+        "french": "attendre",
+        "english": "to wait for, expect",
+        "type": "verb"
+    },
+    "90.": {
+        "rank": "90.",
+        "french": "trouver",
+        "english": "to find",
+        "type": "verb"
+    },
+    "91.": {
+        "rank": "91.",
+        "french": "laisser",
+        "english": "to leave",
+        "type": "verb"
+    },
+    "92.": {
+        "rank": "92.",
+        "french": "petit",
+        "english": "small, little, young (adjective); kid, child (masculine noun)",
+        "type": "adjective, noun"
+    },
+    "93.": {
+        "rank": "93.",
+        "french": "merci",
+        "english": "thanks, thank you",
+        "type": "onomatopoeia, noun"
+    },
+    "94.": {
+        "rank": "94.",
+        "french": "m\u00eame",
+        "english": "same; even, so much as, as",
+        "type": "adverb, adjective"
+    },
+    "95.": {
+        "rank": "95.",
+        "french": "sa",
+        "english": "his, her, its (feminine)",
+        "type": "possessive adjective"
+    },
+    "96.": {
+        "rank": "96.",
+        "french": "ta",
+        "english": "your (reminine)",
+        "type": "possessive adjective"
+    },
+    "97.": {
+        "rank": "97.",
+        "french": "autre",
+        "english": "other, another, different (singular)",
+        "type": "adjective, indefinite pronoun"
+    },
+    "98.": {
+        "rank": "98.",
+        "french": "arriver",
+        "english": "to arrive",
+        "type": "verb"
+    },
+    "99.": {
+        "rank": "99.",
+        "french": "ces",
+        "english": "these, those (plural form of masculine \"ce\" and feminine \"cette\")",
+        "type": "demonstrative adjective"
+    },
+    "100.": {
+        "rank": "100.",
+        "french": "donner",
+        "english": "to give, give away",
+        "type": "verb"
+    },
+    "101.": {
+        "rank": "101.",
+        "french": "regarder",
+        "english": "to look at, watch",
+        "type": "verb"
+    },
+    "102.": {
+        "rank": "102.",
+        "french": "encore",
+        "english": "again, over again, even, still",
+        "type": "adverb"
+    },
+    "103.": {
+        "rank": "103.",
+        "french": "appeler",
+        "english": "to call, ring",
+        "type": "verb"
+    },
+    "104.": {
+        "rank": "104.",
+        "french": "est-ce que",
+        "english": "is it",
+        "type": "adverb"
+    },
+    "105.": {
+        "rank": "105.",
+        "french": "peu",
+        "english": "not much, not very, few; bit",
+        "type": "noun, adverb"
+    },
+    "106.": {
+        "rank": "106.",
+        "french": "homme",
+        "english": "man",
+        "type": "noun"
+    },
+    "107.": {
+        "rank": "107.",
+        "french": "partir",
+        "english": "to go, leave, go away",
+        "type": "verb"
+    },
+    "108.": {
+        "rank": "108.",
+        "french": "ma",
+        "english": "my (used before a feminine singular noun)",
+        "type": "possessive adjective"
+    },
+    "109.": {
+        "rank": "109.",
+        "french": "toujours",
+        "english": "always, still",
+        "type": "adverb"
+    },
+    "110.": {
+        "rank": "110.",
+        "french": "jour",
+        "english": "day, daytime",
+        "type": "noun"
+    },
+    "111.": {
+        "rank": "111.",
+        "french": "femme",
+        "english": "woman, wife",
+        "type": "noun"
+    },
+    "112.": {
+        "rank": "112.",
+        "french": "temps",
+        "english": "weather; time; times",
+        "type": "noun"
+    },
+    "113.": {
+        "rank": "113.",
+        "french": "maintenant",
+        "english": "now, nowadays",
+        "type": "adverb"
+    },
+    "114.": {
+        "rank": "114.",
+        "french": "notre",
+        "english": "our (singular)",
+        "type": "possessive adjective"
+    },
+    "115.": {
+        "rank": "115.",
+        "french": "vie",
+        "english": "life, lifetime, existence",
+        "type": "noun"
+    },
+    "116.": {
+        "rank": "116.",
+        "french": "deux",
+        "english": "two",
+        "type": "numerical adjective"
+    },
+    "117.": {
+        "rank": "117.",
+        "french": "mettre",
+        "english": "to put, put on, wear;",
+        "type": "verb"
+    },
+    "118.": {
+        "rank": "118.",
+        "french": "rester",
+        "english": "to stay, remain",
+        "type": "verb"
+    },
+    "119.": {
+        "rank": "119.",
+        "french": "sans",
+        "english": "without",
+        "type": "preposition"
+    },
+    "120.": {
+        "rank": "120.",
+        "french": "seul",
+        "english": "alone",
+        "type": "adjective, noun"
+    },
+    "121.": {
+        "rank": "121.",
+        "french": "arr\u00eater",
+        "english": "to stop",
+        "type": "verb"
+    },
+    "122.": {
+        "rank": "122.",
+        "french": "vraiment",
+        "english": "really, truly",
+        "type": "adverb"
+    },
+    "123.": {
+        "rank": "123.",
+        "french": "conna\u00eetre",
+        "english": "to know, experience",
+        "type": "verb"
+    },
+    "124.": {
+        "rank": "124.",
+        "french": "quelque",
+        "english": "some, a few, any",
+        "type": "indefinite adjective, adverb"
+    },
+    "125.": {
+        "rank": "125.",
+        "french": "s\u00fbr",
+        "english": "on, over",
+        "type": "adjective"
+    },
+    "126.": {
+        "rank": "126.",
+        "french": "tuer",
+        "english": "to kill",
+        "type": "verb"
+    },
+    "127.": {
+        "rank": "127.",
+        "french": "mourir",
+        "english": "to die, pass away",
+        "type": "verb"
+    },
+    "128.": {
+        "rank": "128.",
+        "french": "demander",
+        "english": "to ask, ask for, be looking for",
+        "type": "verb"
+    },
+    "129.": {
+        "rank": "129.",
+        "french": "juste",
+        "english": "just, fair; just, right, accurate;",
+        "type": "adjective, adverb"
+    },
+    "130.": {
+        "rank": "130.",
+        "french": "peut-\u00eatre",
+        "english": "perhaps, maybe",
+        "type": "adverb"
+    },
+    "131.": {
+        "rank": "131.",
+        "french": "dieu",
+        "english": "god",
+        "type": "noun"
+    },
+    "132.": {
+        "rank": "132.",
+        "french": "fois",
+        "english": "time",
+        "type": "noun"
+    },
+    "133.": {
+        "rank": "133.",
+        "french": "oh",
+        "english": "oh!",
+        "type": "onomatopoeia"
+    },
+    "134.": {
+        "rank": "134.",
+        "french": "p\u00e8re",
+        "english": "father",
+        "type": "noun"
+    },
+    "135.": {
+        "rank": "135.",
+        "french": "comprendre",
+        "english": "to understand",
+        "type": "verb"
+    },
+    "136.": {
+        "rank": "136.",
+        "french": "sortir",
+        "english": "to go out; take out",
+        "type": "verb"
+    },
+    "137.": {
+        "rank": "137.",
+        "french": "personne",
+        "english": "anyone, anybody; person, individual",
+        "type": "indefinite pronoun, noun"
+    },
+    "138.": {
+        "rank": "138.",
+        "french": "an",
+        "english": "year",
+        "type": "noun"
+    },
+    "139.": {
+        "rank": "139.",
+        "french": "trop",
+        "english": "too much, too (excessively)",
+        "type": "adverb"
+    },
+    "140.": {
+        "rank": "140.",
+        "french": "chez",
+        "english": "at, to, in",
+        "type": "preposition"
+    },
+    "141.": {
+        "rank": "141.",
+        "french": "fille",
+        "english": "daughter, girl, gal",
+        "type": "noun"
+    },
+    "142.": {
+        "rank": "142.",
+        "french": "aux",
+        "english": "(\u00e0 + les) = of the",
+        "type": "definite article"
+    },
+    "143.": {
+        "rank": "143.",
+        "french": "monde",
+        "english": "world, people",
+        "type": "noun"
+    },
+    "144.": {
+        "rank": "144.",
+        "french": "ami",
+        "english": "friend; friendly",
+        "type": "noun, adjective"
+    },
+    "145.": {
+        "rank": "145.",
+        "french": "vrai",
+        "english": "true, real, genuine",
+        "type": "adjective"
+    },
+    "146.": {
+        "rank": "146.",
+        "french": "apr\u00e8s",
+        "english": "after, afterwards, later",
+        "type": "preposition, adverb"
+    },
+    "147.": {
+        "rank": "147.",
+        "french": "mal",
+        "english": "trouble, difficulty; badly, wrongly",
+        "type": "adverb, noun"
+    },
+    "148.": {
+        "rank": "148.",
+        "french": "besoin",
+        "english": "need, demand, necessity",
+        "type": "noun"
+    },
+    "149.": {
+        "rank": "149.",
+        "french": "accord",
+        "english": "agreement, accord, harmony",
+        "type": "noun"
+    },
+    "150.": {
+        "rank": "150.",
+        "french": "ses",
+        "english": "his, her, its (plural)",
+        "type": "possessive adjective"
+    },
+    "151.": {
+        "rank": "151.",
+        "french": "avant",
+        "english": "before",
+        "type": "preposition, adverb"
+    },
+    "152.": {
+        "rank": "152.",
+        "french": "monsieur",
+        "english": "gentleman, Mr",
+        "type": "noun"
+    },
+    "153.": {
+        "rank": "153.",
+        "french": "enfant",
+        "english": "child, infant",
+        "type": "noun"
+    },
+    "154.": {
+        "rank": "154.",
+        "french": "grand",
+        "english": "big, large, tall, great; big boy, big girl",
+        "type": "adjective, noun"
+    },
+    "155.": {
+        "rank": "155.",
+        "french": "entendre",
+        "english": "to hear, listen to, understand",
+        "type": "verb"
+    },
+    "156.": {
+        "rank": "156.",
+        "french": "voil\u00e0",
+        "english": "there is, there are",
+        "type": "preposition"
+    },
+    "157.": {
+        "rank": "157.",
+        "french": "chercher",
+        "english": "to look for, seek",
+        "type": "verb"
+    },
+    "158.": {
+        "rank": "158.",
+        "french": "heure",
+        "english": "hour; time; age",
+        "type": "noun"
+    },
+    "159.": {
+        "rank": "159.",
+        "french": "mieux",
+        "english": "better, utmost, best; improvement",
+        "type": "adverb, noun"
+    },
+    "160.": {
+        "rank": "160.",
+        "french": "tes",
+        "english": "your (plural)",
+        "type": "possessive adjective"
+    },
+    "161.": {
+        "rank": "161.",
+        "french": "aider",
+        "english": "to help, aid",
+        "type": "verb"
+    },
+    "162.": {
+        "rank": "162.",
+        "french": "m\u00e8re",
+        "english": "mother",
+        "type": "noun"
+    },
+    "163.": {
+        "rank": "163.",
+        "french": "d\u00e9j\u00e0",
+        "english": "already, before",
+        "type": "adverb"
+    },
+    "164.": {
+        "rank": "164.",
+        "french": "beau",
+        "english": "beautiful, lovely, pretty; fine, nice (weather)",
+        "type": "adjective"
+    },
+    "165.": {
+        "rank": "165.",
+        "french": "essayer",
+        "english": "to try, try out, test",
+        "type": "verb"
+    },
+    "166.": {
+        "rank": "166.",
+        "french": "quel",
+        "english": "what, which (interrogative)",
+        "type": "interrogative adjective"
+    },
+    "167.": {
+        "rank": "167.",
+        "french": "vos",
+        "english": "your (plural, from ''votre'')",
+        "type": "possessive adjective"
+    },
+    "168.": {
+        "rank": "168.",
+        "french": "depuis",
+        "english": "since, from, for;\u00a0",
+        "type": "preposition, adverb"
+    },
+    "169.": {
+        "rank": "169.",
+        "french": "quelqu'un",
+        "english": "someone, somebody",
+        "type": "indefinite pronoun"
+    },
+    "170.": {
+        "rank": "170.",
+        "french": "beaucoup",
+        "english": "much, many, a lot",
+        "type": "adverb"
+    },
+    "171.": {
+        "rank": "171.",
+        "french": "revenir",
+        "english": "to come back, return",
+        "type": "verb"
+    },
+    "172.": {
+        "rank": "172.",
+        "french": "donc",
+        "english": "so, therefore",
+        "type": "conjunction"
+    },
+    "173.": {
+        "rank": "173.",
+        "french": "plaire",
+        "english": "to be successful",
+        "type": "verb"
+    },
+    "174.": {
+        "rank": "174.",
+        "french": "maison",
+        "english": "house, home",
+        "type": "noun"
+    },
+    "175.": {
+        "rank": "175.",
+        "french": "gens",
+        "english": "people (plural)",
+        "type": "noun"
+    },
+    "176.": {
+        "rank": "176.",
+        "french": "nuit",
+        "english": "night",
+        "type": "noun"
+    },
+    "177.": {
+        "rank": "177.",
+        "french": "ah",
+        "english": "ah!",
+        "type": "onomatopoeia"
+    },
+    "178.": {
+        "rank": "178.",
+        "french": "soir",
+        "english": "evening, night",
+        "type": "noun"
+    },
+    "179.": {
+        "rank": "179.",
+        "french": "nom",
+        "english": "name; noun",
+        "type": "noun"
+    },
+    "180.": {
+        "rank": "180.",
+        "french": "bonjour",
+        "english": "hello",
+        "type": "noun"
+    },
+    "181.": {
+        "rank": "181.",
+        "french": "jouer",
+        "english": "to play",
+        "type": "verb"
+    },
+    "182.": {
+        "rank": "182.",
+        "french": "leur",
+        "english": "their, to them (mas or fem), theirs (masc, fem, plural)",
+        "type": "personal pronoun, possessive pronoun"
+    },
+    "183.": {
+        "rank": "183.",
+        "french": "finir",
+        "english": "to finish, end",
+        "type": "verb"
+    },
+    "184.": {
+        "rank": "184.",
+        "french": "peur",
+        "english": "fear, fright",
+        "type": "noun"
+    },
+    "185.": {
+        "rank": "185.",
+        "french": "mort",
+        "english": "death; dead",
+        "type": "noun, adjective"
+    },
+    "186.": {
+        "rank": "186.",
+        "french": "parce que",
+        "english": "because, for",
+        "type": "conjunction"
+    },
+    "187.": {
+        "rank": "187.",
+        "french": "perdre",
+        "english": "to lose, miss",
+        "type": "verb"
+    },
+    "188.": {
+        "rank": "188.",
+        "french": "maman",
+        "english": "mummy, mama, mom",
+        "type": "noun"
+    },
+    "189.": {
+        "rank": "189.",
+        "french": "sentir",
+        "english": "to smell, sniff, feel",
+        "type": "verb"
+    },
+    "190.": {
+        "rank": "190.",
+        "french": "ouais",
+        "english": "yeah, yep",
+        "type": "adverb"
+    },
+    "191.": {
+        "rank": "191.",
+        "french": "rentrer",
+        "english": "to bring in, take in; to get in, go in, come home",
+        "type": "verb"
+    },
+    "192.": {
+        "rank": "192.",
+        "french": "nos",
+        "english": "our (plural);\u00a0",
+        "type": "possessive adjective"
+    },
+    "193.": {
+        "rank": "193.",
+        "french": "premier",
+        "english": "first, basic; first floor",
+        "type": "adjective, noun"
+    },
+    "194.": {
+        "rank": "194.",
+        "french": "probl\u00e8me",
+        "english": "problem",
+        "type": "noun"
+    },
+    "195.": {
+        "rank": "195.",
+        "french": "argent",
+        "english": "silver, money",
+        "type": "noun"
+    },
+    "196.": {
+        "rank": "196.",
+        "french": "quelle",
+        "english": "who, what, which",
+        "type": "interrogative adjective"
+    },
+    "197.": {
+        "rank": "197.",
+        "french": "vivre",
+        "english": "to live, be alive, go through",
+        "type": "verb"
+    },
+    "198.": {
+        "rank": "198.",
+        "french": "rendre",
+        "english": "to return, give back, repay",
+        "type": "verb"
+    },
+    "199.": {
+        "rank": "199.",
+        "french": "dernier",
+        "english": "last, latest",
+        "type": "adjective, noun"
+    },
+    "200.": {
+        "rank": "200.",
+        "french": "tenir",
+        "english": "to hold, run, keep, last",
+        "type": "verb"
+    },
+    "201.": {
+        "rank": "201.",
+        "french": "cet",
+        "english": "this, that (before vowel and mute h)",
+        "type": "demonstrative adjective"
+    },
+    "202.": {
+        "rank": "202.",
+        "french": "main",
+        "english": "hand",
+        "type": "noun"
+    },
+    "203.": {
+        "rank": "203.",
+        "french": "cela",
+        "english": "this, that (used in formal contexts and expressions)",
+        "type": "demonstrative pronoun"
+    },
+    "204.": {
+        "rank": "204.",
+        "french": "vite",
+        "english": "quickly, fast, soon",
+        "type": "adverb"
+    },
+    "205.": {
+        "rank": "205.",
+        "french": "oublier",
+        "english": "to forget, miss",
+        "type": "verb"
+    },
+    "206.": {
+        "rank": "206.",
+        "french": "air",
+        "english": "air; look, appearance, manner",
+        "type": "noun"
+    },
+    "207.": {
+        "rank": "207.",
+        "french": "salut",
+        "english": "greeting; Hi!, Hello!, Bye!",
+        "type": "noun, onomatopoeia"
+    },
+    "208.": {
+        "rank": "208.",
+        "french": "fils",
+        "english": "son",
+        "type": "noun"
+    },
+    "209.": {
+        "rank": "209.",
+        "french": "travailler",
+        "english": "to work, work on, practise",
+        "type": "verb"
+    },
+    "210.": {
+        "rank": "210.",
+        "french": "moins",
+        "english": "less",
+        "type": "adverb"
+    },
+    "211.": {
+        "rank": "211.",
+        "french": "t\u00eate",
+        "english": "head, face",
+        "type": "noun"
+    },
+    "212.": {
+        "rank": "212.",
+        "french": "coup",
+        "english": "blow, shot, kick, punch",
+        "type": "noun"
+    },
+    "213.": {
+        "rank": "213.",
+        "french": "\u00e9couter",
+        "english": "to listen to",
+        "type": "verb"
+    },
+    "214.": {
+        "rank": "214.",
+        "french": "raison",
+        "english": "reason",
+        "type": "noun"
+    },
+    "215.": {
+        "rank": "215.",
+        "french": "manger",
+        "english": "to eat",
+        "type": "verb"
+    },
+    "216.": {
+        "rank": "216.",
+        "french": "amour",
+        "english": "love, love affair, cupid",
+        "type": "noun"
+    },
+    "217.": {
+        "rank": "217.",
+        "french": "entrer",
+        "english": "to go in, enter, come in",
+        "type": "verb"
+    },
+    "218.": {
+        "rank": "218.",
+        "french": "dont",
+        "english": "whose, of which",
+        "type": "relative pronoun, interrogative pronoun"
+    },
+    "219.": {
+        "rank": "219.",
+        "french": "nouveau",
+        "english": "new, fresh",
+        "type": "noun, adjective"
+    },
+    "220.": {
+        "rank": "220.",
+        "french": "devenir",
+        "english": "to become",
+        "type": "verb"
+    },
+    "221.": {
+        "rank": "221.",
+        "french": "hein",
+        "english": "what?, eh?, Huh? (familiar)",
+        "type": "onomatopoeia"
+    },
+    "222.": {
+        "rank": "222.",
+        "french": "commencer",
+        "english": "to start, begin",
+        "type": "verb"
+    },
+    "223.": {
+        "rank": "223.",
+        "french": "merde",
+        "english": "shit (vulgar), bull, crap, damn",
+        "type": "onomatopoeia, noun"
+    },
+    "224.": {
+        "rank": "224.",
+        "french": "moment",
+        "english": "moment, while, point",
+        "type": "noun"
+    },
+    "225.": {
+        "rank": "225.",
+        "french": "voiture",
+        "english": "car, coach, carriage",
+        "type": "noun"
+    },
+    "226.": {
+        "rank": "226.",
+        "french": "vieux",
+        "english": "old; old man, old woman",
+        "type": "adjective, noun"
+    },
+    "227.": {
+        "rank": "227.",
+        "french": "demain",
+        "english": "tomorrow",
+        "type": "adverb"
+    },
+    "228.": {
+        "rank": "228.",
+        "french": "revoir",
+        "english": "to see again, review; goodbye;\u00a0",
+        "type": "noun, verb"
+    },
+    "229.": {
+        "rank": "229.",
+        "french": "elles",
+        "english": "they (refers to a group of feminine nouns or females)",
+        "type": "personal pronoun"
+    },
+    "230.": {
+        "rank": "230.",
+        "french": "payer",
+        "english": "to pay",
+        "type": "verb"
+    },
+    "231.": {
+        "rank": "231.",
+        "french": "fou",
+        "english": "mad, crazy; madman, fool",
+        "type": "adjective, noun"
+    },
+    "232.": {
+        "rank": "232.",
+        "french": "tirer",
+        "english": "to pull, draw",
+        "type": "verb"
+    },
+    "233.": {
+        "rank": "233.",
+        "french": "ouvrir",
+        "english": "to open",
+        "type": "verb"
+    },
+    "234.": {
+        "rank": "234.",
+        "french": "oeil",
+        "english": "eye, view (= \u0153il) (plural is yeux)",
+        "type": "noun"
+    },
+    "235.": {
+        "rank": "235.",
+        "french": "fait",
+        "english": "event, fact",
+        "type": "noun"
+    },
+    "236.": {
+        "rank": "236.",
+        "french": "changer",
+        "english": "to change, exchange",
+        "type": "verb"
+    },
+    "237.": {
+        "rank": "237.",
+        "french": "question",
+        "english": "question, matter",
+        "type": "noun"
+    },
+    "238.": {
+        "rank": "238.",
+        "french": "tomber",
+        "english": "to fall",
+        "type": "verb"
+    },
+    "239.": {
+        "rank": "239.",
+        "french": "assez",
+        "english": "enough, quite, fairly",
+        "type": "adverb"
+    },
+    "240.": {
+        "rank": "240.",
+        "french": "foutre",
+        "english": "(slang) to do, give, put on; (vulgar) to have sex, to masturbate",
+        "type": "verb"
+    },
+    "241.": {
+        "rank": "241.",
+        "french": "excuser",
+        "english": "to forgive, pardon, excuse",
+        "type": "verb"
+    },
+    "242.": {
+        "rank": "242.",
+        "french": "affaire",
+        "english": "affiar, business",
+        "type": "noun"
+    },
+    "243.": {
+        "rank": "243.",
+        "french": "dormir",
+        "english": "to sleep; to lie idle",
+        "type": "verb"
+    },
+    "244.": {
+        "rank": "244.",
+        "french": "combien",
+        "english": "how much, how many",
+        "type": "adverb"
+    },
+    "245.": {
+        "rank": "245.",
+        "french": "fr\u00e8re",
+        "english": "brother",
+        "type": "noun"
+    },
+    "246.": {
+        "rank": "246.",
+        "french": "travail",
+        "english": "wor, labor, employment",
+        "type": "noun"
+    },
+    "247.": {
+        "rank": "247.",
+        "french": "id\u00e9e",
+        "english": "idea, opinion",
+        "type": "noun"
+    },
+    "248.": {
+        "rank": "248.",
+        "french": "eh",
+        "english": "hey!",
+        "type": "onomatopoeia"
+    },
+    "249.": {
+        "rank": "249.",
+        "french": "puis",
+        "english": "next, then, besides, plus (in addition)",
+        "type": "conjunction, adverb"
+    },
+    "250.": {
+        "rank": "250.",
+        "french": "famille",
+        "english": "family;",
+        "type": "noun"
+    },
+    "251.": {
+        "rank": "251.",
+        "french": "truc",
+        "english": "trick, knack, thing",
+        "type": "noun"
+    },
+    "252.": {
+        "rank": "252.",
+        "french": "trois",
+        "english": "three",
+        "type": "numerical adjective"
+    },
+    "253.": {
+        "rank": "253.",
+        "french": "tant",
+        "english": "much, so much",
+        "type": "adverb"
+    },
+    "254.": {
+        "rank": "254.",
+        "french": "souvenir",
+        "english": "memory, souvenir; to remember",
+        "type": "verb, noun"
+    },
+    "255.": {
+        "rank": "255.",
+        "french": "ni",
+        "english": "nor, or (negative)",
+        "type": "conjunction"
+    },
+    "256.": {
+        "rank": "256.",
+        "french": "tous",
+        "english": "everything, all (plural)",
+        "type": "indefinite pronoun"
+    },
+    "257.": {
+        "rank": "257.",
+        "french": "occuper",
+        "english": "to occupy, live in, take up",
+        "type": "verb"
+    },
+    "258.": {
+        "rank": "258.",
+        "french": "entre",
+        "english": "between, among",
+        "type": "preposition"
+    },
+    "259.": {
+        "rank": "259.",
+        "french": "ok",
+        "english": "OK; okay (satisfactory)",
+        "type": "adjective, adverb"
+    },
+    "260.": {
+        "rank": "260.",
+        "french": "marcher",
+        "english": "to walk, march, go",
+        "type": "verb"
+    },
+    "261.": {
+        "rank": "261.",
+        "french": "chance",
+        "english": "luck, fortune, chance",
+        "type": "noun"
+    },
+    "262.": {
+        "rank": "262.",
+        "french": "aujourd'hui",
+        "english": "today, nowadays",
+        "type": "adverb"
+    },
+    "263.": {
+        "rank": "263.",
+        "french": "envoyer",
+        "english": "to send, throw, dispatch, refer",
+        "type": "verb"
+    },
+    "264.": {
+        "rank": "264.",
+        "french": "histoire",
+        "english": "history, story",
+        "type": "noun"
+    },
+    "265.": {
+        "rank": "265.",
+        "french": "jeune",
+        "english": "young, youthful; young person",
+        "type": "adjective, noun"
+    },
+    "266.": {
+        "rank": "266.",
+        "french": "tard",
+        "english": "late",
+        "type": "adverb"
+    },
+    "267.": {
+        "rank": "267.",
+        "french": "apprendre",
+        "english": "to learn, to hear (about)",
+        "type": "verb"
+    },
+    "268.": {
+        "rank": "268.",
+        "french": "minute",
+        "english": "minute",
+        "type": "noun"
+    },
+    "269.": {
+        "rank": "269.",
+        "french": "boire",
+        "english": "to drink (consume alcohol), to soak up",
+        "type": "verb"
+    },
+    "270.": {
+        "rank": "270.",
+        "french": "garder",
+        "english": "to keep, to look after, to guard",
+        "type": "verb"
+    },
+    "271.": {
+        "rank": "271.",
+        "french": "quelques",
+        "english": "some (quantity), small number, a few",
+        "type": "indefinite adjective"
+    },
+    "272.": {
+        "rank": "272.",
+        "french": "type",
+        "english": "type, kind; guy (colloquial)",
+        "type": "noun"
+    },
+    "273.": {
+        "rank": "273.",
+        "french": "porte",
+        "english": "gate, door",
+        "type": "noun"
+    },
+    "274.": {
+        "rank": "274.",
+        "french": "montrer",
+        "english": "to show, point out",
+        "type": "verb"
+    },
+    "275.": {
+        "rank": "275.",
+        "french": "mec",
+        "english": "guy, bloke",
+        "type": "noun"
+    },
+    "276.": {
+        "rank": "276.",
+        "french": "asseoir",
+        "english": "to sit down, sit up",
+        "type": "verb"
+    },
+    "277.": {
+        "rank": "277.",
+        "french": "porter",
+        "english": "to carry, wear",
+        "type": "verb"
+    },
+    "278.": {
+        "rank": "278.",
+        "french": "attention",
+        "english": "attention",
+        "type": "onomatopoeia, noun"
+    },
+    "279.": {
+        "rank": "279.",
+        "french": "ann\u00e9e",
+        "english": "year",
+        "type": "noun"
+    },
+    "280.": {
+        "rank": "280.",
+        "french": "sous",
+        "english": "under",
+        "type": "preposition"
+    },
+    "281.": {
+        "rank": "281.",
+        "french": "pr\u00eat",
+        "english": "ready",
+        "type": "adjective"
+    },
+    "282.": {
+        "rank": "282.",
+        "french": "contre",
+        "english": "against",
+        "type": "preposition"
+    },
+    "283.": {
+        "rank": "283.",
+        "french": "prier",
+        "english": "to pray",
+        "type": "verb"
+    },
+    "284.": {
+        "rank": "284.",
+        "french": "pendant",
+        "english": "for, during",
+        "type": "preposition"
+    },
+    "285.": {
+        "rank": "285.",
+        "french": "mois",
+        "english": "month",
+        "type": "noun"
+    },
+    "286.": {
+        "rank": "286.",
+        "french": "meilleur",
+        "english": "better; the best one",
+        "type": "adjective, noun"
+    },
+    "287.": {
+        "rank": "287.",
+        "french": "servir",
+        "english": "to serve",
+        "type": "verb"
+    },
+    "288.": {
+        "rank": "288.",
+        "french": "madame",
+        "english": "madam, Mrs",
+        "type": "noun"
+    },
+    "289.": {
+        "rank": "289.",
+        "french": "putain",
+        "english": "whore, hooker",
+        "type": "noun"
+    },
+    "290.": {
+        "rank": "290.",
+        "french": "\u00e9crire",
+        "english": "to write",
+        "type": "verb"
+    },
+    "291.": {
+        "rank": "291.",
+        "french": "part",
+        "english": "part, share",
+        "type": "noun"
+    },
+    "292.": {
+        "rank": "292.",
+        "french": "eau",
+        "english": "water",
+        "type": "noun"
+    },
+    "293.": {
+        "rank": "293.",
+        "french": "sang",
+        "english": "blood",
+        "type": "noun"
+    },
+    "294.": {
+        "rank": "294.",
+        "french": "place",
+        "english": "room, square, seat",
+        "type": "noun"
+    },
+    "295.": {
+        "rank": "295.",
+        "french": "esp\u00e9rer",
+        "english": "to hope for",
+        "type": "verb"
+    },
+    "296.": {
+        "rank": "296.",
+        "french": "plein",
+        "english": "full, solid",
+        "type": "adjective, preposition"
+    },
+    "297.": {
+        "rank": "297.",
+        "french": "d\u00e9soler",
+        "english": "to distress, upset",
+        "type": "verb"
+    },
+    "298.": {
+        "rank": "298.",
+        "french": "eux",
+        "english": "them, they",
+        "type": "personal pronoun"
+    },
+    "299.": {
+        "rank": "299.",
+        "french": "retrouver",
+        "english": "to find; to meet",
+        "type": "verb"
+    },
+    "300.": {
+        "rank": "300.",
+        "french": "ville",
+        "english": "town, city",
+        "type": "noun"
+    },
+    "301.": {
+        "rank": "301.",
+        "french": "terre",
+        "english": "earth, ground",
+        "type": "noun"
+    },
+    "302.": {
+        "rank": "302.",
+        "french": "gagner",
+        "english": "to win, earn",
+        "type": "verb"
+    },
+    "303.": {
+        "rank": "303.",
+        "french": "semaine",
+        "english": "week",
+        "type": "noun"
+    },
+    "304.": {
+        "rank": "304.",
+        "french": "acheter",
+        "english": "to buy",
+        "type": "verb"
+    },
+    "305.": {
+        "rank": "305.",
+        "french": "longtemps",
+        "english": "long, for a long time",
+        "type": "adverb"
+    },
+    "306.": {
+        "rank": "306.",
+        "french": "gars",
+        "english": "boy, chap, guy",
+        "type": "noun"
+    },
+    "307.": {
+        "rank": "307.",
+        "french": "chambre",
+        "english": "bedroom, chamber",
+        "type": "noun"
+    },
+    "308.": {
+        "rank": "308.",
+        "french": "h\u00e9",
+        "english": "Hey! (to attract attention)",
+        "type": "onomatopoeia"
+    },
+    "309.": {
+        "rank": "309.",
+        "french": "c\u00f4t\u00e9",
+        "english": "coast, slope, side",
+        "type": "noun"
+    },
+    "310.": {
+        "rank": "310.",
+        "french": "droit",
+        "english": "law, right; straight",
+        "type": "noun, adjective"
+    },
+    "311.": {
+        "rank": "311.",
+        "french": "rappeler",
+        "english": "to remind, remember, call back, be reminiscent of",
+        "type": "verb"
+    },
+    "312.": {
+        "rank": "312.",
+        "french": "lire",
+        "english": "to read",
+        "type": "verb"
+    },
+    "313.": {
+        "rank": "313.",
+        "french": "cas",
+        "english": "case, instance",
+        "type": "noun"
+    },
+    "314.": {
+        "rank": "314.",
+        "french": "mot",
+        "english": "word",
+        "type": "noun"
+    },
+    "315.": {
+        "rank": "315.",
+        "french": "seulement",
+        "english": "only, solely",
+        "type": "adverb"
+    },
+    "316.": {
+        "rank": "316.",
+        "french": "voici",
+        "english": "here is, here are",
+        "type": "preposition"
+    },
+    "317.": {
+        "rank": "317.",
+        "french": "monter",
+        "english": "to go up, rise, come up",
+        "type": "verb"
+    },
+    "318.": {
+        "rank": "318.",
+        "french": "d\u00e9sol\u00e9",
+        "english": "contrite, desolate, afraid, sorry",
+        "type": "adjective"
+    },
+    "319.": {
+        "rank": "319.",
+        "french": "quitter",
+        "english": "to leave, depart",
+        "type": "verb"
+    },
+    "320.": {
+        "rank": "320.",
+        "french": "police",
+        "english": "police",
+        "type": "noun"
+    },
+    "321.": {
+        "rank": "321.",
+        "french": "suite",
+        "english": "rest, result, continuation",
+        "type": "noun"
+    },
+    "322.": {
+        "rank": "322.",
+        "french": "matin",
+        "english": "morning",
+        "type": "noun"
+    },
+    "323.": {
+        "rank": "323.",
+        "french": "emmener",
+        "english": "to take (somebody), take along",
+        "type": "verb"
+    },
+    "324.": {
+        "rank": "324.",
+        "french": "toucher",
+        "english": "to touch",
+        "type": "verb"
+    },
+    "325.": {
+        "rank": "325.",
+        "french": "continuer",
+        "english": "to continue, go on",
+        "type": "verb"
+    },
+    "326.": {
+        "rank": "326.",
+        "french": "devant",
+        "english": "in front, ahead; in front of, ahead of, past, before",
+        "type": "preposition, adverb"
+    },
+    "327.": {
+        "rank": "327.",
+        "french": "fort",
+        "english": "strong, solid; loud, much, most",
+        "type": "adverb, adjective"
+    },
+    "328.": {
+        "rank": "328.",
+        "french": "gros",
+        "english": "big, large, thick, heavy",
+        "type": "adjective"
+    },
+    "329.": {
+        "rank": "329.",
+        "french": "enfin",
+        "english": "finally, at last",
+        "type": "adverb"
+    },
+    "330.": {
+        "rank": "330.",
+        "french": "pardon",
+        "english": "I'm sorry!, Excuse me!, Pardon?; forgiveness",
+        "type": "onomatopoeia, noun"
+    },
+    "331.": {
+        "rank": "331.",
+        "french": "mari",
+        "english": "husband",
+        "type": "noun"
+    },
+    "332.": {
+        "rank": "332.",
+        "french": "l\u00e0-bas",
+        "english": "there, over there",
+        "type": "adverb"
+    },
+    "333.": {
+        "rank": "333.",
+        "french": "importer",
+        "english": "to import; to matter",
+        "type": "verb"
+    },
+    "334.": {
+        "rank": "334.",
+        "french": "papa",
+        "english": "daddy, dad",
+        "type": "noun"
+    },
+    "335.": {
+        "rank": "335.",
+        "french": "train",
+        "english": "train, pace",
+        "type": "noun"
+    },
+    "336.": {
+        "rank": "336.",
+        "french": "manquer",
+        "english": "to miss, to miss somebody",
+        "type": "verb"
+    },
+    "337.": {
+        "rank": "337.",
+        "french": "raconter",
+        "english": "to tell",
+        "type": "verb"
+    },
+    "338.": {
+        "rank": "338.",
+        "french": "ensemble",
+        "english": "together, at once",
+        "type": "adverb"
+    },
+    "339.": {
+        "rank": "339.",
+        "french": "mauvais",
+        "english": "bad, poor, wrong",
+        "type": "adjective"
+    },
+    "340.": {
+        "rank": "340.",
+        "french": "film",
+        "english": "film, movie",
+        "type": "noun"
+    },
+    "341.": {
+        "rank": "341.",
+        "french": "r\u00e9pondre",
+        "english": "to answer, reply",
+        "type": "verb"
+    },
+    "342.": {
+        "rank": "342.",
+        "french": "gar\u00e7on",
+        "english": "boy, chap, guy",
+        "type": "noun"
+    },
+    "343.": {
+        "rank": "343.",
+        "french": "ch\u00e9ri",
+        "english": "darling, loved; boyfriend, girlfriend, beloved",
+        "type": "noun, adjective"
+    },
+    "344.": {
+        "rank": "344.",
+        "french": "corps",
+        "english": "body",
+        "type": "noun"
+    },
+    "345.": {
+        "rank": "345.",
+        "french": "celui",
+        "english": "the one, that one (singular masculine)",
+        "type": "demonstrative pronoun"
+    },
+    "346.": {
+        "rank": "346.",
+        "french": "autres",
+        "english": "other",
+        "type": "indefinite pronoun"
+    },
+    "347.": {
+        "rank": "347.",
+        "french": "heureux",
+        "english": "happy, felicitous",
+        "type": "adjective"
+    },
+    "348.": {
+        "rank": "348.",
+        "french": "loin",
+        "english": "far, a long way off, a long time ago",
+        "type": "adverb"
+    },
+    "349.": {
+        "rank": "349.",
+        "french": "aucun",
+        "english": "no, not any; none",
+        "type": "indefinite adjective, indefinite pronoun"
+    },
+    "350.": {
+        "rank": "350.",
+        "french": "pauvre",
+        "english": "poor; poor person, beggar",
+        "type": "adjective, noun"
+    },
+    "351.": {
+        "rank": "351.",
+        "french": "sauver",
+        "english": "to save;\u00a0",
+        "type": "verb"
+    },
+    "352.": {
+        "rank": "352.",
+        "french": "chaque",
+        "english": "each, every",
+        "type": "indefinite adjective"
+    },
+    "353.": {
+        "rank": "353.",
+        "french": "retourner",
+        "english": "to turn, turn over, return",
+        "type": "verb"
+    },
+    "354.": {
+        "rank": "354.",
+        "french": "leurs",
+        "english": "theirs (3rd person masculine or feminine plural)",
+        "type": "possessive adjective"
+    },
+    "355.": {
+        "rank": "355.",
+        "french": "rencontrer",
+        "english": "to meet, encounter",
+        "type": "verb"
+    },
+    "356.": {
+        "rank": "356.",
+        "french": "coeur",
+        "english": "core, heart",
+        "type": "noun"
+    },
+    "357.": {
+        "rank": "357.",
+        "french": "voler",
+        "english": "to flly; to steal, swipe",
+        "type": "verb"
+    },
+    "358.": {
+        "rank": "358.",
+        "french": "fermer",
+        "english": "to close, shut",
+        "type": "verb"
+    },
+    "359.": {
+        "rank": "359.",
+        "french": "car",
+        "english": "because, for",
+        "type": "conjunction"
+    },
+    "360.": {
+        "rank": "360.",
+        "french": "valoir",
+        "english": "to hold, apply; to be worth",
+        "type": "verb"
+    },
+    "361.": {
+        "rank": "361.",
+        "french": "descendre",
+        "english": "to take down, go down, come down",
+        "type": "verb"
+    },
+    "362.": {
+        "rank": "362.",
+        "french": "feu",
+        "english": "fire",
+        "type": "noun"
+    },
+    "363.": {
+        "rank": "363.",
+        "french": "docteur",
+        "english": "doctor, physician",
+        "type": "noun"
+    },
+    "364.": {
+        "rank": "364.",
+        "french": "suffire",
+        "english": "to be enough, suffice",
+        "type": "verb"
+    },
+    "365.": {
+        "rank": "365.",
+        "french": "fa\u00e7on",
+        "english": "way, manner, behaviour",
+        "type": "noun"
+    },
+    "366.": {
+        "rank": "366.",
+        "french": "important",
+        "english": "important, considerable, sizeable",
+        "type": "adjective"
+    },
+    "367.": {
+        "rank": "367.",
+        "french": "sembler",
+        "english": "to seem, appear, look",
+        "type": "verb"
+    },
+    "368.": {
+        "rank": "368.",
+        "french": "super",
+        "english": "great, fantastic; high-octane gasoline",
+        "type": "adjective, noun"
+    },
+    "369.": {
+        "rank": "369.",
+        "french": "compter",
+        "english": "to count",
+        "type": "verb"
+    },
+    "370.": {
+        "rank": "370.",
+        "french": "vers",
+        "english": "towards, near, around, about (time, age)",
+        "type": "preposition"
+    },
+    "371.": {
+        "rank": "371.",
+        "french": "joli",
+        "english": "nice, tidy, pretty (attractive), lovely (beautiful)",
+        "type": "adjective"
+    },
+    "372.": {
+        "rank": "372.",
+        "french": "point",
+        "english": "dot, full stop, period",
+        "type": "noun"
+    },
+    "373.": {
+        "rank": "373.",
+        "french": "noir",
+        "english": "black; black man/woman",
+        "type": "adjective, noun"
+    },
+    "374.": {
+        "rank": "374.",
+        "french": "hier",
+        "english": "yesterday",
+        "type": "adverb"
+    },
+    "375.": {
+        "rank": "375.",
+        "french": "chien",
+        "english": "dog",
+        "type": "noun"
+    },
+    "376.": {
+        "rank": "376.",
+        "french": "guerre",
+        "english": "war",
+        "type": "noun"
+    },
+    "377.": {
+        "rank": "377.",
+        "french": "genre",
+        "english": "kind, type, sort",
+        "type": "noun"
+    },
+    "378.": {
+        "rank": "378.",
+        "french": "marier",
+        "english": "to marry, get married",
+        "type": "verb"
+    },
+    "379.": {
+        "rank": "379.",
+        "french": "arme",
+        "english": "weapon",
+        "type": "noun"
+    },
+    "380.": {
+        "rank": "380.",
+        "french": "cause",
+        "english": "cause, reason",
+        "type": "noun"
+    },
+    "381.": {
+        "rank": "381.",
+        "french": "endroit",
+        "english": "place",
+        "type": "noun"
+    },
+    "382.": {
+        "rank": "382.",
+        "french": "ordre",
+        "english": "order, command",
+        "type": "noun"
+    },
+    "383.": {
+        "rank": "383.",
+        "french": "poser",
+        "english": "to put down, lay, pose, sit",
+        "type": "verb"
+    },
+    "384.": {
+        "rank": "384.",
+        "french": "reste",
+        "english": "the remainder, rest",
+        "type": "noun"
+    },
+    "385.": {
+        "rank": "385.",
+        "french": "pied",
+        "english": "foot; stem, leg, base",
+        "type": "noun"
+    },
+    "386.": {
+        "rank": "386.",
+        "french": "envie",
+        "english": "desire, urge, craving",
+        "type": "noun"
+    },
+    "387.": {
+        "rank": "387.",
+        "french": "pr\u00e8s",
+        "english": "near",
+        "type": "preposition, adverb"
+    },
+    "388.": {
+        "rank": "388.",
+        "french": "fin",
+        "english": "end, ending",
+        "type": "noun"
+    },
+    "389.": {
+        "rank": "389.",
+        "french": "tiens",
+        "english": "Why!, Hello! (surprise)",
+        "type": "onomatopoeia"
+    },
+    "390.": {
+        "rank": "390.",
+        "french": "inqui\u00e9ter",
+        "english": "to worry, bother, trouble",
+        "type": "verb"
+    },
+    "391.": {
+        "rank": "391.",
+        "french": "d'autres",
+        "english": "others; more",
+        "type": "indefinite adjective, indefinite pronoun"
+    },
+    "392.": {
+        "rank": "392.",
+        "french": "bouger",
+        "english": "to move",
+        "type": "verb"
+    },
+    "393.": {
+        "rank": "393.",
+        "french": "plut\u00f4t",
+        "english": "rather, quite",
+        "type": "adverb"
+    },
+    "394.": {
+        "rank": "394.",
+        "french": "apporter",
+        "english": "to bring, supply",
+        "type": "verb"
+    },
+    "395.": {
+        "rank": "395.",
+        "french": "photo",
+        "english": "photo, photography",
+        "type": "noun"
+    },
+    "396.": {
+        "rank": "396.",
+        "french": "d\u00e9cider",
+        "english": "to decide",
+        "type": "verb"
+    },
+    "397.": {
+        "rank": "397.",
+        "french": "ainsi",
+        "english": "like this, in this way",
+        "type": "adverb"
+    },
+    "398.": {
+        "rank": "398.",
+        "french": "certain",
+        "english": "certain, sure",
+        "type": "adjective, indefinite adjective"
+    },
+    "399.": {
+        "rank": "399.",
+        "french": "aucune",
+        "english": "no, not any, in no way",
+        "type": "indefinite adjective"
+    },
+    "400.": {
+        "rank": "400.",
+        "french": "vendre",
+        "english": "to sell",
+        "type": "verb"
+    },
+    "401.": {
+        "rank": "401.",
+        "french": "\u00e9cole",
+        "english": "school",
+        "type": "noun"
+    },
+    "402.": {
+        "rank": "402.",
+        "french": "cher",
+        "english": "dear, beloved, darling, expensive",
+        "type": "adjective"
+    },
+    "403.": {
+        "rank": "403.",
+        "french": "chef",
+        "english": "leader, chief, head",
+        "type": "noun"
+    },
+    "404.": {
+        "rank": "404.",
+        "french": "tourner",
+        "english": "to turn, stir, toss, shoot",
+        "type": "verb"
+    },
+    "405.": {
+        "rank": "405.",
+        "french": "cacher",
+        "english": "to hide, conceal",
+        "type": "verb"
+    },
+    "406.": {
+        "rank": "406.",
+        "french": "boulot",
+        "english": "work, job",
+        "type": "noun"
+    },
+    "407.": {
+        "rank": "407.",
+        "french": "pays",
+        "english": "country, nation, land (country)",
+        "type": "noun"
+    },
+    "408.": {
+        "rank": "408.",
+        "french": "ceux",
+        "english": "this one, that one (masculine plural)",
+        "type": "demonstrative pronoun"
+    },
+    "409.": {
+        "rank": "409.",
+        "french": "possible",
+        "english": "possbile",
+        "type": "adjective"
+    },
+    "410.": {
+        "rank": "410.",
+        "french": "expliquer",
+        "english": "to explain, account for",
+        "type": "verb"
+    },
+    "411.": {
+        "rank": "411.",
+        "french": "battre",
+        "english": "to beat",
+        "type": "verb"
+    },
+    "412.": {
+        "rank": "412.",
+        "french": "peine",
+        "english": "sorrow, grief, saddness, suffering",
+        "type": "noun"
+    },
+    "413.": {
+        "rank": "413.",
+        "french": "livre",
+        "english": "book; pound",
+        "type": "noun"
+    },
+    "414.": {
+        "rank": "414.",
+        "french": "agir",
+        "english": "to act, behave; work, take effect",
+        "type": "verb"
+    },
+    "415.": {
+        "rank": "415.",
+        "french": "imaginer",
+        "english": "to imagine, suppose",
+        "type": "verb"
+    },
+    "416.": {
+        "rank": "416.",
+        "french": "tour",
+        "english": "tower, castle, tour, ballot;",
+        "type": "noun"
+    },
+    "417.": {
+        "rank": "417.",
+        "french": "adorer",
+        "english": "to adore, love",
+        "type": "verb"
+    },
+    "418.": {
+        "rank": "418.",
+        "french": "v\u00e9rit\u00e9",
+        "english": "truth",
+        "type": "noun"
+    },
+    "419.": {
+        "rank": "419.",
+        "french": "recevoir",
+        "english": "to receive, to get",
+        "type": "verb"
+    },
+    "420.": {
+        "rank": "420.",
+        "french": "gentil",
+        "english": "kind, good, nice",
+        "type": "adjective"
+    },
+    "421.": {
+        "rank": "421.",
+        "french": "jeter",
+        "english": "to throw",
+        "type": "verb"
+    },
+    "423.": {
+        "rank": "423.",
+        "french": "b\u00e9b\u00e9",
+        "english": "baby",
+        "type": "noun"
+    },
+    "424.": {
+        "rank": "424.",
+        "french": "partie",
+        "english": "part; game",
+        "type": "noun"
+    },
+    "425.": {
+        "rank": "425.",
+        "french": "nouvelle",
+        "english": "new, fresh;\u00a0",
+        "type": "adjective"
+    },
+    "426.": {
+        "rank": "426.",
+        "french": "jeu",
+        "english": "play, game; hand, deck (cards)",
+        "type": "noun"
+    },
+    "427.": {
+        "rank": "427.",
+        "french": "amener",
+        "english": "to bring, take, bring about",
+        "type": "verb"
+    },
+    "428.": {
+        "rank": "428.",
+        "french": "instant",
+        "english": "instant, moment",
+        "type": "noun"
+    },
+    "429.": {
+        "rank": "429.",
+        "french": "parent",
+        "english": "relative, relation; parent",
+        "type": "noun"
+    },
+    "430.": {
+        "rank": "430.",
+        "french": "dur",
+        "english": "hard, tough, harsh",
+        "type": "adjective"
+    },
+    "431.": {
+        "rank": "431.",
+        "french": "service",
+        "english": "service, favor",
+        "type": "noun"
+    },
+    "432.": {
+        "rank": "432.",
+        "french": "plaisir",
+        "english": "pleasure",
+        "type": "noun"
+    },
+    "433.": {
+        "rank": "433.",
+        "french": "promettre",
+        "english": "to promise",
+        "type": "verb"
+    },
+    "434.": {
+        "rank": "434.",
+        "french": "mentir",
+        "english": "to lie",
+        "type": "verb"
+    },
+    "435.": {
+        "rank": "435.",
+        "french": "soeur (s\u0153ur)",
+        "english": "sister",
+        "type": "noun"
+    },
+    "436.": {
+        "rank": "436.",
+        "french": "bient\u00f4t",
+        "english": "soon, quickly, shortly",
+        "type": "adverb"
+    },
+    "437.": {
+        "rank": "437.",
+        "french": "lit",
+        "english": "bed",
+        "type": "noun"
+    },
+    "438.": {
+        "rank": "438.",
+        "french": "tellement",
+        "english": "so (to such an extent), so (very), so much",
+        "type": "adverb"
+    },
+    "439.": {
+        "rank": "439.",
+        "french": "utiliser",
+        "english": "to use",
+        "type": "verb"
+    },
+    "440.": {
+        "rank": "440.",
+        "french": "lieu",
+        "english": "place, site",
+        "type": "noun"
+    },
+    "441.": {
+        "rank": "441.",
+        "french": "coucher",
+        "english": "to put to bed, lay down, to sleep",
+        "type": "verb"
+    },
+    "442.": {
+        "rank": "442.",
+        "french": "presque",
+        "english": "almost, nearly",
+        "type": "adverb"
+    },
+    "443.": {
+        "rank": "443.",
+        "french": "dehors",
+        "english": "outside, outdoors",
+        "type": "adverb"
+    },
+    "444.": {
+        "rank": "444.",
+        "french": "pass\u00e9",
+        "english": "past, last; the past, past tense",
+        "type": "adjective, noun"
+    },
+    "445.": {
+        "rank": "445.",
+        "french": "pr\u00e9f\u00e9rer",
+        "english": "to prefer",
+        "type": "verb"
+    },
+    "446.": {
+        "rank": "446.",
+        "french": "content",
+        "english": "happy, pleased, glad",
+        "type": "adjective"
+    },
+    "447.": {
+        "rank": "447.",
+        "french": "derri\u00e8re",
+        "english": "behind",
+        "type": "preposition, adverb"
+    },
+    "448.": {
+        "rank": "448.",
+        "french": "con",
+        "english": "stupid jerk, bloody idiot; damned, bloody, stupid",
+        "type": "noun, adjective"
+    },
+    "449.": {
+        "rank": "449.",
+        "french": "offrir",
+        "english": "to offer, give",
+        "type": "verb"
+    },
+    "450.": {
+        "rank": "450.",
+        "french": "roi",
+        "english": "king",
+        "type": "noun"
+    },
+    "451.": {
+        "rank": "451.",
+        "french": "verre",
+        "english": "glass, drink",
+        "type": "noun"
+    },
+    "452.": {
+        "rank": "452.",
+        "french": "r\u00e9veiller",
+        "english": "to awake, wake (smb.) up",
+        "type": "verb"
+    },
+    "453.": {
+        "rank": "453.",
+        "french": "aide",
+        "english": "assistant; help, assistance",
+        "type": "noun"
+    },
+    "454.": {
+        "rank": "454.",
+        "french": "d'abord",
+        "english": "foremost (most important), first",
+        "type": "adverb"
+    },
+    "455.": {
+        "rank": "455.",
+        "french": "journ\u00e9e",
+        "english": "day",
+        "type": "noun"
+    },
+    "456.": {
+        "rank": "456.",
+        "french": "pr\u00e9parer",
+        "english": "to prepare, make, get ready",
+        "type": "verb"
+    },
+    "457.": {
+        "rank": "457.",
+        "french": "num\u00e9ro",
+        "english": "number",
+        "type": "noun"
+    },
+    "458.": {
+        "rank": "458.",
+        "french": "permettre",
+        "english": "to allow, permit",
+        "type": "verb"
+    },
+    "459.": {
+        "rank": "459.",
+        "french": "ramener",
+        "english": "to bring back , take back",
+        "type": "verb"
+    },
+    "460.": {
+        "rank": "460.",
+        "french": "enlever",
+        "english": "to take (smth.) away, remove, take off",
+        "type": "verb"
+    },
+    "461.": {
+        "rank": "461.",
+        "french": "calme",
+        "english": "peace, calmness; quiet, calm",
+        "type": "noun, adjective"
+    },
+    "462.": {
+        "rank": "462.",
+        "french": "l\u00e2cher",
+        "english": "to let go of, to release",
+        "type": "verb"
+    },
+    "463.": {
+        "rank": "463.",
+        "french": "choisir",
+        "english": "to choose",
+        "type": "verb"
+    },
+    "464.": {
+        "rank": "464.",
+        "french": "musique",
+        "english": "music",
+        "type": "noun"
+    },
+    "465.": {
+        "rank": "465.",
+        "french": "conduire",
+        "english": "to drive, lead",
+        "type": "verb"
+    },
+    "466.": {
+        "rank": "466.",
+        "french": "faute",
+        "english": "mistake, error; fault; lack of",
+        "type": "noun"
+    },
+    "467.": {
+        "rank": "467.",
+        "french": "calmer",
+        "english": "to calm down, appease, sooth",
+        "type": "verb"
+    },
+    "468.": {
+        "rank": "468.",
+        "french": "d\u00eener",
+        "english": "dinner; to have dinner",
+        "type": "noun, verb"
+    },
+    "469.": {
+        "rank": "469.",
+        "french": "mariage",
+        "english": "marriage, wedding",
+        "type": "noun"
+    },
+    "470.": {
+        "rank": "470.",
+        "french": "bureau",
+        "english": "writing desk, study (room), office",
+        "type": "noun"
+    },
+    "471.": {
+        "rank": "471.",
+        "french": "route",
+        "english": "road, journey, way",
+        "type": "noun"
+    },
+    "472.": {
+        "rank": "472.",
+        "french": "chanter",
+        "english": "to sing",
+        "type": "verb"
+    },
+    "473.": {
+        "rank": "473.",
+        "french": "secret",
+        "english": "secret; secretive",
+        "type": "noun, adjective"
+    },
+    "474.": {
+        "rank": "474.",
+        "french": "dispara\u00eetre",
+        "english": "to disappear, vanish",
+        "type": "verb"
+    },
+    "475.": {
+        "rank": "475.",
+        "french": "lever",
+        "english": "to raise, lift",
+        "type": "verb"
+    },
+    "476.": {
+        "rank": "476.",
+        "french": "dessus",
+        "english": "on top; top",
+        "type": "adverb, noun"
+    },
+    "477.": {
+        "rank": "477.",
+        "french": "pr\u00e9senter",
+        "english": "to introduce, present",
+        "type": "verb"
+    },
+    "478.": {
+        "rank": "478.",
+        "french": "accepter",
+        "english": "to accept",
+        "type": "verb"
+    },
+    "479.": {
+        "rank": "479.",
+        "french": "baiser",
+        "english": "kiss; to shag, screw, fuck",
+        "type": "verb, noun"
+    },
+    "480.": {
+        "rank": "480.",
+        "french": "sinon",
+        "english": "otherwise, or else, except",
+        "type": "conjunction"
+    },
+    "481.": {
+        "rank": "481.",
+        "french": "idiot",
+        "english": "idiot; stupid",
+        "type": "noun, adjective"
+    },
+    "482.": {
+        "rank": "482.",
+        "french": "long",
+        "english": "long, lengthy",
+        "type": "adjective"
+    },
+    "483.": {
+        "rank": "483.",
+        "french": "caf\u00e9",
+        "english": "coffee, caf\u00e9 (bar)",
+        "type": "noun"
+    },
+    "484.": {
+        "rank": "484.",
+        "french": "propre",
+        "english": "clean, tidy",
+        "type": "adjective"
+    },
+    "485.": {
+        "rank": "485.",
+        "french": "confiance",
+        "english": "trust, confidence, belief",
+        "type": "noun"
+    },
+    "486.": {
+        "rank": "486.",
+        "french": "cinq",
+        "english": "five",
+        "type": "numerical adjective"
+    },
+    "487.": {
+        "rank": "487.",
+        "french": "bonsoir",
+        "english": "good evening, good night",
+        "type": "noun"
+    },
+    "488.": {
+        "rank": "488.",
+        "french": "compte",
+        "english": "count, number",
+        "type": "noun"
+    },
+    "489.": {
+        "rank": "489.",
+        "french": "t\u00e9l\u00e9phone",
+        "english": "telephone, phone",
+        "type": "noun"
+    },
+    "490.": {
+        "rank": "490.",
+        "french": "casser",
+        "english": "to break, shatter",
+        "type": "verb"
+    },
+    "491.": {
+        "rank": "491.",
+        "french": "prochain",
+        "english": "next",
+        "type": "adjective"
+    },
+    "492.": {
+        "rank": "492.",
+        "french": "frapper",
+        "english": "to hit, strike, blow",
+        "type": "verb"
+    },
+    "493.": {
+        "rank": "493.",
+        "french": "facile",
+        "english": "easy",
+        "type": "adjective"
+    },
+    "494.": {
+        "rank": "494.",
+        "french": "r\u00eave",
+        "english": "dream",
+        "type": "noun"
+    },
+    "495.": {
+        "rank": "495.",
+        "french": "copain",
+        "english": "friend, boyfriend",
+        "type": "noun"
+    },
+    "496.": {
+        "rank": "496.",
+        "french": "malade",
+        "english": "ill, sick",
+        "type": "adjective"
+    },
+    "497.": {
+        "rank": "497.",
+        "french": "rue",
+        "english": "street",
+        "type": "noun"
+    },
+    "498.": {
+        "rank": "498.",
+        "french": "bas",
+        "english": "low; bottom",
+        "type": "adjective, noun"
+    },
+    "499.": {
+        "rank": "499.",
+        "french": "lettre",
+        "english": "letter",
+        "type": "noun"
+    },
+    "500.": {
+        "rank": "500.",
+        "french": "ignorer",
+        "english": "not to know, to ignore",
+        "type": "verb"
+    },
+    "501.": {
+        "rank": "501.",
+        "french": "f\u00eate",
+        "english": "party, celebration",
+        "type": "noun"
+    },
+    "502.": {
+        "rank": "502.",
+        "french": "couper",
+        "english": "to cut, cut off",
+        "type": "verb"
+    },
+    "503.": {
+        "rank": "503.",
+        "french": "esprit",
+        "english": "mind, brain, wit, spirit, esprit",
+        "type": "noun"
+    },
+    "504.": {
+        "rank": "504.",
+        "french": "taire",
+        "english": "to be silent, stop talking",
+        "type": "verb"
+    },
+    "505.": {
+        "rank": "505.",
+        "french": "seigneur",
+        "english": "lord (e Seigneur = the Lord)",
+        "type": "noun"
+    },
+    "506.": {
+        "rank": "506.",
+        "french": "flic",
+        "english": "cop, policeman",
+        "type": "noun"
+    },
+    "507.": {
+        "rank": "507.",
+        "french": "parfois",
+        "english": "sometimes",
+        "type": "adverb"
+    },
+    "508.": {
+        "rank": "508.",
+        "french": "capitaine",
+        "english": "captain",
+        "type": "noun"
+    },
+    "509.": {
+        "rank": "509.",
+        "french": "\u00e2ge",
+        "english": "age",
+        "type": "noun"
+    },
+    "510.": {
+        "rank": "510.",
+        "french": "autant",
+        "english": "so much, so many",
+        "type": "adverb"
+    },
+    "511.": {
+        "rank": "511.",
+        "french": "force",
+        "english": "force, strength",
+        "type": "noun"
+    },
+    "512.": {
+        "rank": "512.",
+        "french": "pi\u00e8ce",
+        "english": "room; play; coin; piece",
+        "type": "noun"
+    },
+    "513.": {
+        "rank": "513.",
+        "french": "quatre",
+        "english": "four",
+        "type": "numerical adjective"
+    },
+    "514.": {
+        "rank": "514.",
+        "french": "cul",
+        "english": "bum, ass",
+        "type": "noun"
+    },
+    "515.": {
+        "rank": "515.",
+        "french": "difficile",
+        "english": "difficult, strenuous, hard",
+        "type": "adjective"
+    },
+    "516.": {
+        "rank": "516.",
+        "french": "bras",
+        "english": "arm",
+        "type": "noun"
+    },
+    "517.": {
+        "rank": "517.",
+        "french": "tromper",
+        "english": "to deceive; to make a mistake",
+        "type": "verb"
+    },
+    "518.": {
+        "rank": "518.",
+        "french": "surtout",
+        "english": "above all",
+        "type": "adverb"
+    },
+    "519.": {
+        "rank": "519.",
+        "french": "ressembler",
+        "english": "to look like, to resemble",
+        "type": "verb"
+    },
+    "520.": {
+        "rank": "520.",
+        "french": "jurer",
+        "english": "to swear",
+        "type": "verb"
+    },
+    "521.": {
+        "rank": "521.",
+        "french": "plan",
+        "english": "map, plan, layout",
+        "type": "noun"
+    },
+    "522.": {
+        "rank": "522.",
+        "french": "prison",
+        "english": "prison, jail",
+        "type": "noun"
+    },
+    "523.": {
+        "rank": "523.",
+        "french": "sale",
+        "english": "dirty",
+        "type": "adjective"
+    },
+    "524.": {
+        "rank": "524.",
+        "french": "courir",
+        "english": "to run, rush",
+        "type": "verb"
+    },
+    "525.": {
+        "rank": "525.",
+        "french": "haut",
+        "english": "high, elevated; top",
+        "type": "noun, adjective"
+    },
+    "526.": {
+        "rank": "526.",
+        "french": "\u00e9tat",
+        "english": "state",
+        "type": "noun"
+    },
+    "527.": {
+        "rank": "527.",
+        "french": "remettre",
+        "english": "to put back; hand over; postpone; put back on",
+        "type": "verb"
+    },
+    "528.": {
+        "rank": "528.",
+        "french": "carte",
+        "english": "map, card;",
+        "type": "noun"
+    },
+    "529.": {
+        "rank": "529.",
+        "french": "paix",
+        "english": "peace, calmness; quiet, calm",
+        "type": "noun"
+    },
+    "530.": {
+        "rank": "530.",
+        "french": "exactement",
+        "english": "exactly, accurately, precisely",
+        "type": "adverb"
+    },
+    "531.": {
+        "rank": "531.",
+        "french": "dr\u00f4le",
+        "english": "funny, peculiar",
+        "type": "adjective"
+    },
+    "532.": {
+        "rank": "532.",
+        "french": "refuser",
+        "english": "to refuse, turn down",
+        "type": "verb"
+    },
+    "533.": {
+        "rank": "533.",
+        "french": "d\u00e8s",
+        "english": "from",
+        "type": "preposition"
+    },
+    "534.": {
+        "rank": "534.",
+        "french": "pr\u00e9sident",
+        "english": "president, chairman",
+        "type": "noun"
+    },
+    "535.": {
+        "rank": "535.",
+        "french": "cours",
+        "english": "class, course",
+        "type": "noun"
+    },
+    "536.": {
+        "rank": "536.",
+        "french": "grave",
+        "english": "serious, grave, solemn",
+        "type": "adjective"
+    },
+    "537.": {
+        "rank": "537.",
+        "french": "terminer",
+        "english": "to end, finish",
+        "type": "verb"
+    },
+    "538.": {
+        "rank": "538.",
+        "french": "ciel",
+        "english": "sky",
+        "type": "noun"
+    },
+    "539.": {
+        "rank": "539.",
+        "french": "partout",
+        "english": "everywhere",
+        "type": "adverb"
+    },
+    "540.": {
+        "rank": "540.",
+        "french": "\u00e2me",
+        "english": "soul",
+        "type": "noun"
+    },
+    "541.": {
+        "rank": "541.",
+        "french": "patron",
+        "english": "boss, manager, owner",
+        "type": "noun"
+    },
+    "542.": {
+        "rank": "542.",
+        "french": "amuser",
+        "english": "to amuse, entertain",
+        "type": "verb"
+    },
+    "543.": {
+        "rank": "543.",
+        "french": "celle",
+        "english": "the one, that one (feminine singular)",
+        "type": "demonstrative pronoun"
+    },
+    "544.": {
+        "rank": "544.",
+        "french": "visage",
+        "english": "face",
+        "type": "noun"
+    },
+    "545.": {
+        "rank": "545.",
+        "french": "int\u00e9resser",
+        "english": "to interest",
+        "type": "verb"
+    },
+    "546.": {
+        "rank": "546.",
+        "french": "reconna\u00eetre",
+        "english": "to recognize, acknowledge",
+        "type": "verb"
+    },
+    "547.": {
+        "rank": "547.",
+        "french": "rire",
+        "english": "to laugh, have fun, joke",
+        "type": "verb"
+    },
+    "548.": {
+        "rank": "548.",
+        "french": "m\u00e9decin",
+        "english": "doctor, physician, medical practitioner, MD",
+        "type": "noun"
+    },
+    "549.": {
+        "rank": "549.",
+        "french": "rapport",
+        "english": "report, connection, link, relationship",
+        "type": "noun"
+    },
+    "550.": {
+        "rank": "550.",
+        "french": "pardonner",
+        "english": "to forgive, pardon, excuse",
+        "type": "verb"
+    },
+    "551.": {
+        "rank": "551.",
+        "french": "avis",
+        "english": "opinion; notice",
+        "type": "noun"
+    },
+    "552.": {
+        "rank": "552.",
+        "french": "embrasser",
+        "english": "to kiss; to embrace, encompass",
+        "type": "verb"
+    },
+    "553.": {
+        "rank": "553.",
+        "french": "retour",
+        "english": "return;",
+        "type": "noun"
+    },
+    "554.": {
+        "rank": "554.",
+        "french": "laquelle",
+        "english": "which one = (le + quelle) (feminine singular)",
+        "type": "relative pronoun, interrogative pronoun"
+    },
+    "555.": {
+        "rank": "555.",
+        "french": "simple",
+        "english": "simple",
+        "type": "adjective"
+    },
+    "556.": {
+        "rank": "556.",
+        "french": "danser",
+        "english": "to dance",
+        "type": "verb"
+    },
+    "557.": {
+        "rank": "557.",
+        "french": "exister",
+        "english": "to exist",
+        "type": "verb"
+    },
+    "558.": {
+        "rank": "558.",
+        "french": "diff\u00e9rent",
+        "english": "different, various, other",
+        "type": "adjective"
+    },
+    "559.": {
+        "rank": "559.",
+        "french": "souvent",
+        "english": "often",
+        "type": "adverb"
+    },
+    "560.": {
+        "rank": "560.",
+        "french": "lumi\u00e8re",
+        "english": "light",
+        "type": "noun"
+    },
+    "561.": {
+        "rank": "561.",
+        "french": "g\u00e9nial",
+        "english": "great, brilliant",
+        "type": "adjective"
+    },
+    "562.": {
+        "rank": "562.",
+        "french": "libre",
+        "english": "free, vacant",
+        "type": "adjective"
+    },
+    "563.": {
+        "rank": "563.",
+        "french": "dollar",
+        "english": "dollar",
+        "type": "noun"
+    },
+    "564.": {
+        "rank": "564.",
+        "french": "s\u00fbrement",
+        "english": "surely, certainly, most probably",
+        "type": "adverb"
+    },
+    "565.": {
+        "rank": "565.",
+        "french": "pareil",
+        "english": "the same",
+        "type": "adjective"
+    },
+    "566.": {
+        "rank": "566.",
+        "french": "h\u00f4pital",
+        "english": "hospital",
+        "type": "noun"
+    },
+    "567.": {
+        "rank": "567.",
+        "french": "ceci",
+        "english": "this (formal contexts; refers to nouns that have no specific gender)",
+        "type": "demonstrative pronoun"
+    },
+    "568.": {
+        "rank": "568.",
+        "french": "r\u00e9ussir",
+        "english": "to be successful, succeed",
+        "type": "verb"
+    },
+    "569.": {
+        "rank": "569.",
+        "french": "bizarre",
+        "english": "odd, starnge, bizarre",
+        "type": "adjective"
+    },
+    "570.": {
+        "rank": "570.",
+        "french": "voix",
+        "english": "voice",
+        "type": "noun"
+    },
+    "571.": {
+        "rank": "571.",
+        "french": "prot\u00e9ger",
+        "english": "to protect",
+        "type": "verb"
+    },
+    "572.": {
+        "rank": "572.",
+        "french": "honneur",
+        "english": "honor (US), honour",
+        "type": "noun"
+    },
+    "573.": {
+        "rank": "573.",
+        "french": "t\u00f4t",
+        "english": "early",
+        "type": "adverb"
+    },
+    "574.": {
+        "rank": "574.",
+        "french": "\u00e9quipe",
+        "english": "team, crew, party",
+        "type": "noun"
+    },
+    "575.": {
+        "rank": "575.",
+        "french": "pr\u00e9venir",
+        "english": "to tell, inform, prevent",
+        "type": "verb"
+    },
+    "576.": {
+        "rank": "576.",
+        "french": "cheval",
+        "english": "horse",
+        "type": "noun"
+    },
+    "577.": {
+        "rank": "577.",
+        "french": "ailleurs",
+        "english": "elsewhere, somewhere else",
+        "type": "adverb"
+    },
+    "578.": {
+        "rank": "578.",
+        "french": "lequel",
+        "english": "which one = (le + quel) (masculine singular)",
+        "type": "relative pronoun, interrogative pronoun"
+    },
+    "579.": {
+        "rank": "579.",
+        "french": "ma\u00eetre",
+        "english": "master, ruler, mistress, school teacher",
+        "type": "noun"
+    },
+    "580.": {
+        "rank": "580.",
+        "french": "avion",
+        "english": "plane",
+        "type": "noun"
+    },
+    "581.": {
+        "rank": "581.",
+        "french": "bout",
+        "english": "bit, tip, end",
+        "type": "noun"
+    },
+    "582.": {
+        "rank": "582.",
+        "french": "habiter",
+        "english": "to live in",
+        "type": "verb"
+    },
+    "583.": {
+        "rank": "583.",
+        "french": "faim",
+        "english": "hunger",
+        "type": "noun"
+    },
+    "584.": {
+        "rank": "584.",
+        "french": "ensuite",
+        "english": "then, next, afterwards",
+        "type": "adverb"
+    },
+    "585.": {
+        "rank": "585.",
+        "french": "l'un",
+        "english": "a, an, one (replaces 'un' when 'un' is a pronoun or at the beginning of a sentence)",
+        "type": "indefinite pronoun"
+    },
+    "586.": {
+        "rank": "586.",
+        "french": "froid",
+        "english": "cold",
+        "type": "adjective"
+    },
+    "587.": {
+        "rank": "587.",
+        "french": "normal",
+        "english": "normal, usual",
+        "type": "adjective"
+    },
+    "588.": {
+        "rank": "588.",
+        "french": "d\u00e9ranger",
+        "english": "to disturb, upset",
+        "type": "verb"
+    },
+    "589.": {
+        "rank": "589.",
+        "french": "reprendre",
+        "english": "to recapture, take back",
+        "type": "verb"
+    },
+    "590.": {
+        "rank": "590.",
+        "french": "oncle",
+        "english": "uncle",
+        "type": "noun"
+    },
+    "591.": {
+        "rank": "591.",
+        "french": "prix",
+        "english": "price; prize",
+        "type": "noun"
+    },
+    "592.": {
+        "rank": "592.",
+        "french": "retard",
+        "english": "delay, lateness",
+        "type": "noun"
+    },
+    "593.": {
+        "rank": "593.",
+        "french": "d\u00e9truire",
+        "english": "to destroy, ruin",
+        "type": "verb"
+    },
+    "594.": {
+        "rank": "594.",
+        "french": "cadeau",
+        "english": "present, gift",
+        "type": "noun"
+    },
+    "595.": {
+        "rank": "595.",
+        "french": "pousser",
+        "english": "to push, press",
+        "type": "verb"
+    },
+    "596.": {
+        "rank": "596.",
+        "french": "face",
+        "english": "face; heads",
+        "type": "noun"
+    },
+    "597.": {
+        "rank": "597.",
+        "french": "gueule",
+        "english": "mouth",
+        "type": "noun"
+    },
+    "598.": {
+        "rank": "598.",
+        "french": "chemin",
+        "english": "path, way",
+        "type": "noun"
+    },
+    "599.": {
+        "rank": "599.",
+        "french": "vivant",
+        "english": "vibrant, living, alive",
+        "type": "adjective"
+    },
+    "600.": {
+        "rank": "600.",
+        "french": "g\u00e9n\u00e9ral",
+        "english": "general (military)",
+        "type": "noun"
+    },
+    "601.": {
+        "rank": "601.",
+        "french": "bateau",
+        "english": "boat, ship",
+        "type": "noun"
+    },
+    "602.": {
+        "rank": "602.",
+        "french": "million",
+        "english": "million",
+        "type": "noun"
+    },
+    "603.": {
+        "rank": "603.",
+        "french": "sac",
+        "english": "bag, sack",
+        "type": "noun"
+    },
+    "604.": {
+        "rank": "604.",
+        "french": "impossible",
+        "english": "impossible",
+        "type": "adjective"
+    },
+    "605.": {
+        "rank": "605.",
+        "french": "seconde",
+        "english": "second, moment",
+        "type": "noun"
+    },
+    "606.": {
+        "rank": "606.",
+        "french": "b\u00eate",
+        "english": "stupid, silly",
+        "type": "noun, adjective"
+    },
+    "607.": {
+        "rank": "607.",
+        "french": "d\u00e9couvrir",
+        "english": "to discover, find",
+        "type": "verb"
+    },
+    "608.": {
+        "rank": "608.",
+        "french": "erreur",
+        "english": "error, mistake",
+        "type": "noun"
+    },
+    "609.": {
+        "rank": "609.",
+        "french": "soleil",
+        "english": "sun, sunlight",
+        "type": "noun"
+    },
+    "610.": {
+        "rank": "610.",
+        "french": "voyage",
+        "english": "trip, journey",
+        "type": "noun"
+    },
+    "611.": {
+        "rank": "611.",
+        "french": "sauter",
+        "english": "to jump",
+        "type": "verb"
+    },
+    "612.": {
+        "rank": "612.",
+        "french": "r\u00eaver",
+        "english": "to dream",
+        "type": "verb"
+    },
+    "613.": {
+        "rank": "613.",
+        "french": "d\u00e9tester",
+        "english": "to hate, detest",
+        "type": "verb"
+    },
+    "614.": {
+        "rank": "614.",
+        "french": "clair",
+        "english": "clear, apparent",
+        "type": "adjective"
+    },
+    "615.": {
+        "rank": "615.",
+        "french": "faux",
+        "english": "wrong, false, fallacious",
+        "type": "adjective"
+    },
+    "616.": {
+        "rank": "616.",
+        "french": "para\u00eetre",
+        "english": "to come out, be published",
+        "type": "verb"
+    },
+    "617.": {
+        "rank": "617.",
+        "french": "balle",
+        "english": "ball (sports equipment)",
+        "type": "noun"
+    },
+    "618.": {
+        "rank": "618.",
+        "french": "emp\u00eacher",
+        "english": "to prevent",
+        "type": "verb"
+    },
+    "619.": {
+        "rank": "619.",
+        "french": "maintenir",
+        "english": "to keep, maintain",
+        "type": "verb"
+    },
+    "620.": {
+        "rank": "620.",
+        "french": "cheveu",
+        "english": "a hair",
+        "type": "noun"
+    },
+    "621.": {
+        "rank": "621.",
+        "french": "papier",
+        "english": "paper",
+        "type": "noun"
+    },
+    "622.": {
+        "rank": "622.",
+        "french": "pr\u00e9sent",
+        "english": "a present; present, current",
+        "type": "noun, adjective"
+    },
+    "623.": {
+        "rank": "623.",
+        "french": "sujet",
+        "english": "subject, topic, theme",
+        "type": "noun"
+    },
+    "624.": {
+        "rank": "624.",
+        "french": "supposer",
+        "english": "to suppose, assume",
+        "type": "verb"
+    },
+    "625.": {
+        "rank": "625.",
+        "french": "tranquille",
+        "english": "quiet, calm",
+        "type": "adjective"
+    },
+    "626.": {
+        "rank": "626.",
+        "french": "neuf",
+        "english": "nine; new, unused",
+        "type": "numerical adjective, adjective"
+    },
+    "627.": {
+        "rank": "627.",
+        "french": "\u00e9pouser",
+        "english": "to marry, to espouse",
+        "type": "verb"
+    },
+    "628.": {
+        "rank": "628.",
+        "french": "blanc",
+        "english": "white; blank",
+        "type": "adjective"
+    },
+    "629.": {
+        "rank": "629.",
+        "french": "table",
+        "english": "table;",
+        "type": "noun"
+    },
+    "630.": {
+        "rank": "630.",
+        "french": "toute",
+        "english": "everything, all",
+        "type": "indefinite adjective"
+    },
+    "631.": {
+        "rank": "631.",
+        "french": "dix",
+        "english": "ten, tenth",
+        "type": "numerical adjective"
+    },
+    "632.": {
+        "rank": "632.",
+        "french": "cl\u00e9",
+        "english": "key; solutioin",
+        "type": "noun"
+    },
+    "633.": {
+        "rank": "633.",
+        "french": "agent",
+        "english": "officer, oficial, agent",
+        "type": "noun"
+    },
+    "634.": {
+        "rank": "634.",
+        "french": "approcher",
+        "english": "to approach",
+        "type": "verb"
+    },
+    "635.": {
+        "rank": "635.",
+        "french": "sens",
+        "english": "direction, way; meaning; sense; senses",
+        "type": "noun"
+    },
+    "636.": {
+        "rank": "636.",
+        "french": "craindre",
+        "english": "to fear, to be afraid of",
+        "type": "verb"
+    },
+    "637.": {
+        "rank": "637.",
+        "french": "six",
+        "english": "six",
+        "type": "numerical adjective"
+    },
+    "638.": {
+        "rank": "638.",
+        "french": "message",
+        "english": "message",
+        "type": "noun"
+    },
+    "639.": {
+        "rank": "639.",
+        "french": "crier",
+        "english": "to shout",
+        "type": "verb"
+    },
+    "640.": {
+        "rank": "640.",
+        "french": "salle",
+        "english": "room, hall, audience",
+        "type": "noun"
+    },
+    "641.": {
+        "rank": "641.",
+        "french": "inviter",
+        "english": "to invite",
+        "type": "verb"
+    },
+    "642.": {
+        "rank": "642.",
+        "french": "effet",
+        "english": "effect, impression",
+        "type": "noun"
+    },
+    "643.": {
+        "rank": "643.",
+        "french": "r\u00e9fl\u00e9chir",
+        "english": "to reflect, think",
+        "type": "verb"
+    },
+    "644.": {
+        "rank": "644.",
+        "french": "esp\u00e8ce",
+        "english": "species, kind",
+        "type": "noun"
+    },
+    "645.": {
+        "rank": "645.",
+        "french": "arranger",
+        "english": "to arrange, to organize",
+        "type": "verb"
+    },
+    "646.": {
+        "rank": "646.",
+        "french": "na\u00eetre",
+        "english": "to be born",
+        "type": "verb"
+    },
+    "647.": {
+        "rank": "647.",
+        "french": "all\u00f4",
+        "english": "Hello! (telephone)",
+        "type": "onomatopoeia"
+    },
+    "648.": {
+        "rank": "648.",
+        "french": "bois",
+        "english": "wood; antlers",
+        "type": "noun"
+    },
+    "649.": {
+        "rank": "649.",
+        "french": "propos",
+        "english": "subject, topic, remark, point",
+        "type": "noun"
+    },
+    "650.": {
+        "rank": "650.",
+        "french": "camp",
+        "english": "camp",
+        "type": "noun"
+    },
+    "651.": {
+        "rank": "651.",
+        "french": "sorte",
+        "english": "sort, kind",
+        "type": "noun"
+    },
+    "652.": {
+        "rank": "652.",
+        "french": "h\u00f4tel",
+        "english": "hotel;",
+        "type": "noun"
+    },
+    "653.": {
+        "rank": "653.",
+        "french": "d\u00e9but",
+        "english": "beginning",
+        "type": "noun"
+    },
+    "654.": {
+        "rank": "654.",
+        "french": "souffrir",
+        "english": "to be in pain, suffer",
+        "type": "verb"
+    },
+    "655.": {
+        "rank": "655.",
+        "french": "jambe",
+        "english": "leg",
+        "type": "noun"
+    },
+    "656.": {
+        "rank": "656.",
+        "french": "remercier",
+        "english": "to thank",
+        "type": "verb"
+    },
+    "657.": {
+        "rank": "657.",
+        "french": "choix",
+        "english": "choice, selection",
+        "type": "noun"
+    },
+    "658.": {
+        "rank": "658.",
+        "french": "s\u00e9curit\u00e9",
+        "english": "safety, security",
+        "type": "noun"
+    },
+    "659.": {
+        "rank": "659.",
+        "french": "avocat",
+        "english": "lawyer",
+        "type": "noun"
+    },
+    "660.": {
+        "rank": "660.",
+        "french": "attraper",
+        "english": "to catch",
+        "type": "verb"
+    },
+    "661.": {
+        "rank": "661.",
+        "french": "client",
+        "english": "customer, client, guest",
+        "type": "noun"
+    },
+    "662.": {
+        "rank": "662.",
+        "french": "courant",
+        "english": "current, trend",
+        "type": "noun"
+    },
+    "663.": {
+        "rank": "663.",
+        "french": "d\u00e9p\u00eacher",
+        "english": "to dispatch",
+        "type": "verb"
+    },
+    "664.": {
+        "rank": "664.",
+        "french": "peuple",
+        "english": "people",
+        "type": "noun"
+    },
+    "665.": {
+        "rank": "665.",
+        "french": "dame",
+        "english": "lady, queen",
+        "type": "noun"
+    },
+    "666.": {
+        "rank": "666.",
+        "french": "v\u00e9rifier",
+        "english": "to check, verify",
+        "type": "verb"
+    },
+    "667.": {
+        "rank": "667.",
+        "french": "abandonner",
+        "english": "to abandon, leave, desert",
+        "type": "verb"
+    },
+    "668.": {
+        "rank": "668.",
+        "french": "journal",
+        "english": "newspaper, diary, journal",
+        "type": "noun"
+    },
+    "669.": {
+        "rank": "669.",
+        "french": "s\u00e9rieux",
+        "english": "genuine, serious",
+        "type": "adjective"
+    },
+    "670.": {
+        "rank": "670.",
+        "french": "br\u00fbler",
+        "english": "to burn",
+        "type": "verb"
+    },
+    "671.": {
+        "rank": "671.",
+        "french": "or",
+        "english": "gold",
+        "type": "noun"
+    },
+    "672.": {
+        "rank": "672.",
+        "french": "loi",
+        "english": "law, rule",
+        "type": "noun"
+    },
+    "673.": {
+        "rank": "673.",
+        "french": "fond",
+        "english": "bottom, back",
+        "type": "noun"
+    },
+    "674.": {
+        "rank": "674.",
+        "french": "gosse",
+        "english": "kid (colloquial, child, youngster)",
+        "type": "noun"
+    },
+    "675.": {
+        "rank": "675.",
+        "french": "fric",
+        "english": "doug, money, cash",
+        "type": "noun"
+    },
+    "676.": {
+        "rank": "676.",
+        "french": "situation",
+        "english": "situation; job; location",
+        "type": "noun"
+    },
+    "677.": {
+        "rank": "677.",
+        "french": "euh",
+        "english": "Er\u2026",
+        "type": "onomatopoeia"
+    },
+    "678.": {
+        "rank": "678.",
+        "french": "sauf",
+        "english": "except",
+        "type": "preposition"
+    },
+    "679.": {
+        "rank": "679.",
+        "french": "accident",
+        "english": "accident",
+        "type": "noun"
+    },
+    "680.": {
+        "rank": "680.",
+        "french": "doute",
+        "english": "doubt",
+        "type": "noun"
+    },
+    "681.": {
+        "rank": "681.",
+        "french": "sc\u00e8ne",
+        "english": "scene",
+        "type": "noun"
+    },
+    "682.": {
+        "rank": "682.",
+        "french": "soldat",
+        "english": "soldier",
+        "type": "noun"
+    },
+    "683.": {
+        "rank": "683.",
+        "french": "amoureux",
+        "english": "loving",
+        "type": "adjective"
+    },
+    "684.": {
+        "rank": "684.",
+        "french": "assurer",
+        "english": "to assure, insure",
+        "type": "verb"
+    },
+    "685.": {
+        "rank": "685.",
+        "french": "preuve",
+        "english": "proof, evidence",
+        "type": "noun"
+    },
+    "686.": {
+        "rank": "686.",
+        "french": "humain",
+        "english": "human",
+        "type": "adjective"
+    },
+    "687.": {
+        "rank": "687.",
+        "french": "mer",
+        "english": "sea, seaside",
+        "type": "noun"
+    },
+    "688.": {
+        "rank": "688.",
+        "french": "silence",
+        "english": "silence",
+        "type": "noun"
+    },
+    "689.": {
+        "rank": "689.",
+        "french": "t\u00e9l\u00e9",
+        "english": "TV, telly",
+        "type": "noun"
+    },
+    "er\">690.": {
+        "rank": "er\">690.",
+        "french": "victime",
+        "english": "victim, casualty",
+        "type": "noun"
+    },
+    "691.": {
+        "rank": "691.",
+        "french": "compl\u00e8tement",
+        "english": "completely, fully, in depth",
+        "type": "adverb"
+    },
+    "692.": {
+        "rank": "692.",
+        "french": "pute",
+        "english": "whore",
+        "type": "noun"
+    },
+    "693.": {
+        "rank": "693.",
+        "french": "garde",
+        "english": "guard; carer, nurse",
+        "type": "noun"
+    },
+    "694.": {
+        "rank": "694.",
+        "french": "meurtre",
+        "english": "murder",
+        "type": "noun"
+    },
+    "695.": {
+        "rank": "695.",
+        "french": "groupe",
+        "english": "group",
+        "type": "noun"
+    },
+    "696.": {
+        "rank": "696.",
+        "french": "crime",
+        "english": "crime",
+        "type": "noun"
+    },
+    "697.": {
+        "rank": "697.",
+        "french": "traiter",
+        "english": "to treat; to deal",
+        "type": "verb"
+    },
+    "698.": {
+        "rank": "698.",
+        "french": "doucement",
+        "english": "gently, softly",
+        "type": "adverb"
+    },
+    "699.": {
+        "rank": "699.",
+        "french": "blesser",
+        "english": "to injure, wound, hurt",
+        "type": "verb"
+    },
+    "700.": {
+        "rank": "700.",
+        "french": "colonel",
+        "english": "colonel",
+        "type": "noun"
+    },
+    "701.": {
+        "rank": "701.",
+        "french": "parole",
+        "english": "speech, word",
+        "type": "noun"
+    },
+    "702.": {
+        "rank": "702.",
+        "french": "triste",
+        "english": "sad",
+        "type": "adjective"
+    },
+    "703.": {
+        "rank": "703.",
+        "french": "honte",
+        "english": "shame",
+        "type": "noun"
+    },
+    "704.": {
+        "rank": "704.",
+        "french": "rouge",
+        "english": "red",
+        "type": "adjective"
+    },
+    "705.": {
+        "rank": "705.",
+        "french": "d\u00e9gager",
+        "english": "to free; to clear; to radiate",
+        "type": "verb"
+    },
+    "706.": {
+        "rank": "706.",
+        "french": "soir\u00e9e",
+        "english": "evening, party",
+        "type": "noun"
+    },
+    "707.": {
+        "rank": "707.",
+        "french": "dangereux",
+        "english": "dangerous",
+        "type": "adjective"
+    },
+    "708.": {
+        "rank": "708.",
+        "french": "arm\u00e9e",
+        "english": "army",
+        "type": "noun"
+    },
+    "709.": {
+        "rank": "709.",
+        "french": "filer",
+        "english": "to spin; to take off; to go off, to leave",
+        "type": "verb"
+    },
+    "710.": {
+        "rank": "710.",
+        "french": "risquer",
+        "english": "to risk",
+        "type": "verb"
+    },
+    "711.": {
+        "rank": "711.",
+        "french": "dos",
+        "english": "back, spine",
+        "type": "noun"
+    },
+    "712.": {
+        "rank": "712.",
+        "french": "appel",
+        "english": "call, appeal",
+        "type": "noun"
+    },
+    "713.": {
+        "rank": "713.",
+        "french": "visite",
+        "english": "visit",
+        "type": "noun"
+    },
+    "714.": {
+        "rank": "714.",
+        "french": "mener",
+        "english": "to take; to lead, guide, manage",
+        "type": "verb"
+    },
+    "715.": {
+        "rank": "715.",
+        "french": "fleur",
+        "english": "flower, blossom",
+        "type": "noun"
+    },
+    "716.": {
+        "rank": "716.",
+        "french": "attaquer",
+        "english": "to attack",
+        "type": "verb"
+    },
+    "717.": {
+        "rank": "717.",
+        "french": "coin",
+        "english": "corner, spot",
+        "type": "noun"
+    },
+    "718.": {
+        "rank": "718.",
+        "french": "prince",
+        "english": "prince",
+        "type": "noun"
+    },
+    "719.": {
+        "rank": "719.",
+        "french": "pire",
+        "english": "worse",
+        "type": "adjective"
+    },
+    "720.": {
+        "rank": "720.",
+        "french": "bordel",
+        "english": "brothel; bloody/gooddamn mess",
+        "type": "noun"
+    },
+    "721.": {
+        "rank": "721.",
+        "french": "professeur",
+        "english": "teacher, professor",
+        "type": "noun"
+    },
+    "722.": {
+        "rank": "722.",
+        "french": "fumer",
+        "english": "to smoke",
+        "type": "verb"
+    },
+    "723.": {
+        "rank": "723.",
+        "french": "r\u00e9p\u00e9ter",
+        "english": "to repeat; to go over, rehearse",
+        "type": "verb"
+    },
+    "724.": {
+        "rank": "724.",
+        "french": "habitude",
+        "english": "habit, practice;",
+        "type": "noun"
+    },
+    "725.": {
+        "rank": "725.",
+        "french": "signer",
+        "english": "to sign",
+        "type": "verb"
+    },
+    "726.": {
+        "rank": "726.",
+        "french": "ficher",
+        "english": "to file, put on file",
+        "type": "verb"
+    },
+    "727.": {
+        "rank": "727.",
+        "french": "m\u00e9riter",
+        "english": "to deserve, be worth;",
+        "type": "verb"
+    },
+    "728.": {
+        "rank": "728.",
+        "french": "r\u00e9ponse",
+        "english": "response, answer, reply",
+        "type": "noun"
+    },
+    "729.": {
+        "rank": "729.",
+        "french": "rejoindre",
+        "english": "to meet up; to join, rejoin;  to go back to",
+        "type": "verb"
+    },
+    "730.": {
+        "rank": "730.",
+        "french": "discuter",
+        "english": "to question, dispute",
+        "type": "verb"
+    },
+    "731.": {
+        "rank": "731.",
+        "french": "village",
+        "english": "village",
+        "type": "noun"
+    },
+    "732.": {
+        "rank": "732.",
+        "french": "pourtant",
+        "english": "yet",
+        "type": "adverb"
+    },
+    "733.": {
+        "rank": "733.",
+        "french": "avancer",
+        "english": "to move forward, advance",
+        "type": "verb"
+    },
+    "734.": {
+        "rank": "734.",
+        "french": "connerie",
+        "english": "stupidity",
+        "type": "noun"
+    },
+    "735.": {
+        "rank": "735.",
+        "french": "reposer",
+        "english": "to rest, to have a rest",
+        "type": "verb"
+    },
+    "736.": {
+        "rank": "736.",
+        "french": "\u00e9chapper",
+        "english": "to escape, get away, slip, run away",
+        "type": "verb"
+    },
+    "737.": {
+        "rank": "737.",
+        "french": "forme",
+        "english": "form, shape",
+        "type": "noun"
+    },
+    "738.": {
+        "rank": "738.",
+        "french": "bruit",
+        "english": "noise, sound; rumour",
+        "type": "noun"
+    },
+    "739.": {
+        "rank": "739.",
+        "french": "chacun",
+        "english": "each, everyone",
+        "type": "indefinite pronoun"
+    },
+    "740.": {
+        "rank": "740.",
+        "french": "diable",
+        "english": "devil",
+        "type": "noun"
+    },
+    "741.": {
+        "rank": "741.",
+        "french": "exemple",
+        "english": "example",
+        "type": "noun"
+    },
+    "742.": {
+        "rank": "742.",
+        "french": "charger",
+        "english": "to charge, load",
+        "type": "verb"
+    },
+    "743.": {
+        "rank": "743.",
+        "french": "chat",
+        "english": "cat",
+        "type": "noun"
+    },
+    "744.": {
+        "rank": "744.",
+        "french": "ennemi",
+        "english": "enemy",
+        "type": "noun"
+    },
+    "745.": {
+        "rank": "745.",
+        "french": "gamin",
+        "english": "kid, child",
+        "type": "noun"
+    },
+    "746.": {
+        "rank": "746.",
+        "french": "rendez-vous",
+        "english": "appointment",
+        "type": "noun"
+    },
+    "747.": {
+        "rank": "747.",
+        "french": "debout",
+        "english": "standing, standing up",
+        "type": "adverb"
+    },
+    "748.": {
+        "rank": "748.",
+        "french": "obliger",
+        "english": "to oblige",
+        "type": "verb"
+    },
+    "749.": {
+        "rank": "749.",
+        "french": "trou",
+        "english": "hole, gap, deficit",
+        "type": "noun"
+    },
+    "750.": {
+        "rank": "750.",
+        "french": "accompagner",
+        "english": "to go with, accompany",
+        "type": "verb"
+    },
+    "751.": {
+        "rank": "751.",
+        "french": "fen\u00eatre",
+        "english": "window;\u00a0",
+        "type": "noun"
+    },
+    "752.": {
+        "rank": "752.",
+        "french": "oser",
+        "english": "to dare",
+        "type": "verb"
+    },
+    "753.": {
+        "rank": "753.",
+        "french": "impression",
+        "english": "impression",
+        "type": "noun"
+    },
+    "754.": {
+        "rank": "754.",
+        "french": "int\u00e9rieur",
+        "english": "inside (inner surface), interrior",
+        "type": "noun"
+    },
+    "755.": {
+        "rank": "755.",
+        "french": "bouche",
+        "english": "mouth",
+        "type": "noun"
+    },
+    "756.": {
+        "rank": "756.",
+        "french": "ligne",
+        "english": "line, course, service",
+        "type": "noun"
+    },
+    "757.": {
+        "rank": "757.",
+        "french": "absolument",
+        "english": "absolutely",
+        "type": "adverb"
+    },
+    "758.": {
+        "rank": "758.",
+        "french": "doux",
+        "english": "soft, mild, gentle",
+        "type": "adjective"
+    }
+}

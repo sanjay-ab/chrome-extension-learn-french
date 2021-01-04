@@ -1,0 +1,29 @@
+{
+	"manifest_version": 2,
+
+	"name": "Learn Words",
+	"description": "A simple extension that randomly shows you commonly used french words to aid with your learning.",
+	"version": "1.0",
+
+	"background": {
+		"scripts": ["popup.js"],
+		"persistent": true
+	},
+
+	"permissions": [
+		"tts"
+	],
+
+
+	"content_security_policy":"script-src 'self' https://apis.google.com; object-src 'self'",
+
+	"browser_action": {
+		"default_icon": "logo.png",
+		"default_popup": "popup.html"
+	},
+
+	"web_accessible_resources" : [
+		"data.json"
+	]
+
+}
